@@ -6,10 +6,10 @@ highlights:       pygments
 permalink:        pretty
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-url:              http://getpoole.com
-paginate:         1
+title:            Rebecca Holmes
+tagline:          ""
+url:              http://piscisvolans.github.io
+paginate:         5
 baseurl:          /
 author:
   name:           Rebecca Holmes
@@ -20,3 +20,7 @@ author:
 version:          1.0.0
 github:
   repo:           https://github.com/piscisvolans/piscisvolans.github.io
+pages_list:       
+  About: '/about'
+  Archive: '/archive'
+  Feed: '/atom.xml'
