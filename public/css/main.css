@@ -49,6 +49,7 @@ a:focus {
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
+  font-family:'Roboto Slab',sans serif;
   font-weight: bold;
   line-height: 1.25;
   color: #313131;
@@ -74,6 +75,7 @@ h4, h5, h6 {
 p {
   margin-top: 0;
   margin-bottom: 1rem;
+/*   line-height:1.2rem; */
 }
 
 strong {
@@ -260,6 +262,13 @@ tbody tr:nth-child(odd) th {
   color: #f65a5b;
   clear:none;
 }
+
+.site-title {
+/*   font-family:'Lobster'; */
+  display:inline;
+/*   font-size:50px; */
+}
+
 .masthead-title a {
   color: #f65a5b;
 }

@@ -8,9 +8,8 @@
     <div class="container-content">
       <div class="masthead">
         <h3 class="masthead-title">
-          <a href="{{ site.baseurl }}" title="Home">{{ site.title }}</a>
+          <div class="site-title"><a href="{{ site.baseurl }}" title="Home">{{ site.title }}</a></div>
 		  
-
 		  {% for page in site.data.pages_list %}
               &nbsp;&nbsp;&nbsp;<small><a href="{{ page.url }}">{{ page.name }}</a></small>
           {% endfor %}
