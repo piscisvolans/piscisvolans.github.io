@@ -10,13 +10,22 @@
         <h3 class="masthead-title">
           <div class="site-title"><a href="{{ site.baseurl }}" title="Home">{{ site.title }}</a></div>
 		  <div class="pull-right">
-		  {% for page in site.data.pages_list %}
-              &nbsp;&nbsp;&nbsp;<small><a href="{{ page.url }}">{{ page.name }}</a></small>
+		  {% for page_link in site.data.pages_list %}
+			  {% if page_link.name == page.title %}
+				  &nbsp;&nbsp;&nbsp;<small><a class="active" href="{{ page_link.url }}">{{ page_link.name }}</a></small>
+			  {% else %}
+			      &nbsp;&nbsp;&nbsp;<small><a href="{{ page_link.url }}">{{ page_link.name }}</a></small>
+			  {% endif %}
           {% endfor %}
 		  </div>
         </h3>
       </div>
-
+	  
+	  {% if page.title == "Home" %}
+	  {% else %}
+	    <h3><a href="{{ site.baseurl }}">&laquo; Back to Home</a></h3>
+	  {% endif %}
+	  
       {{ content }}
 	  {% if page.comments == "True" %}
 	    {% include comments.html %}
