@@ -27,7 +27,7 @@ body {
 }
 @media (min-width: 38em) {
   html {
-    font-size: 20px;
+    font-size: 22px;
   }
 }
 
@@ -49,11 +49,10 @@ a:focus {
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
-  font-family:'Roboto Slab',sans serif;
-  font-weight: bold;
+  font-family:'Rokkitt',sans serif;
+/*   font-weight: bold; */
   line-height: 1.25;
   color: #313131;
-  text-rendering: optimizeLegibility;
 }
 h1 {
   font-size: 2rem;
@@ -79,7 +78,7 @@ p {
 }
 
 strong {
-  color: #303030;
+  color: #313131;
 }
 
 
@@ -264,9 +263,14 @@ tbody tr:nth-child(odd) th {
 }
 
 .site-title {
-/*   font-family:'Lobster'; */
+font-family:'Lobster';
   display:inline;
-/*   font-size:50px; */
+  font-size:60px;
+  font-weight:normal;
+}
+
+.masthead-title .pull-right {
+  line-height:90px;
 }
 
 .masthead-title a {
@@ -297,6 +301,7 @@ tbody tr:nth-child(odd) th {
 .post-title,
 .post-title a {
   color: #303030;
+  font-weight:bold;
 }
 .page-title,
 .post-title {
@@ -329,7 +334,7 @@ tbody tr:nth-child(odd) th {
   color: #999;
 }
 .related-posts li a:hover {
-  color: #268bd2;
+  color: #f65a5b;
   text-decoration: none;
 }
 .related-posts li a:hover small {

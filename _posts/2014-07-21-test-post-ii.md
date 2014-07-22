@@ -4,7 +4,7 @@ title: "Test post II"
 comments: "True"
 ---
 
-Information is interpreted more easily and more uniformly if it is placed where most readers expect to find it. These needs and expectations of readers affect the interpretation not only of tables and illustrations but also of prose itself. Readers have relatively fixed expectations about where in the structure of prose they will encounter particular items of its substance. If writers can become consciously aware of these locations, they can better control the degrees of recognition and emphasis a reader will give to the various pieces of information being presented. Good writers are intuitively aware of these expectations; that is why their prose has what we call "shape."
+Information is interpreted more easily and [more uniformly](#) if it is placed where most readers expect to find it. These needs and expectations of readers affect the interpretation not only of tables and illustrations but also of prose itself. Readers have relatively fixed expectations about where in the structure of prose they will encounter particular items of its substance. If writers can become consciously aware of these locations, they can better control the degrees of recognition and emphasis a reader will give to the various pieces of information being presented. Good writers are intuitively aware of these expectations; that is why their prose has what we call "shape."
 
 ###Sub-heading
 
