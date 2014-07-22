@@ -253,7 +253,7 @@ tbody tr:nth-child(odd) th {
 .masthead {
   padding-top:    1rem;
   padding-bottom: 1rem;
-  margin-bottom: 1rem;
+  margin-bottom: 4rem;
 }
 .masthead-title {
   margin-top: 0;
@@ -263,8 +263,8 @@ tbody tr:nth-child(odd) th {
 }
 
 .site-title {
-font-family:'Lobster';
-  display:inline;
+  float:left;
+  font-family:'Lobster';
   font-size:60px;
   font-weight:normal;
 }
@@ -304,6 +304,7 @@ font-family:'Lobster';
 .page,
 .post {
   margin-bottom: 4em;
+  clear:both;
 }
 
 /* Blog post or page title */

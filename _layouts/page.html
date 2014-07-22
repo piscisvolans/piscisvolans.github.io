@@ -3,6 +3,11 @@ layout: default
 ---
 
 <div class="page">
+  {% if page.title == "Home" %}
+  {% else %}
+	<h3><a href="{{ site.baseurl }}">&laquo; Back to Home</a></h3>
+  {% endif %}
+  
   <h1 class="page-title">{{ page.title }}</h1>
   {{ content }}
 </div>
