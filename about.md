@@ -3,7 +3,7 @@ layout: page
 title: "About"
 ---
 <div class="about">
-<img class="img-responsive" src="{{ site.baseurl }}public/img/prague_april2014.jpg">
+<img class="img-responsive" src="{{ site.baseurl }}public/img/habitrpg.jpg">
 </div>
 
 I'm a graduate student in the [physics department](http://physics.illinois.edu/) at the University of Illinois at Urbana-Champaign. I work in [a group of awesome people](http://research.physics.illinois.edu/QI/Photonics/) doing research on quantum information and quantum optics. We study strange quantum effects such as entanglement, and try to figure out how to build quantum computers and communication systems. We also work with lasers, sometimes wear bowties, and spend a lot of time in the dark.
