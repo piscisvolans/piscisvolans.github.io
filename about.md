@@ -12,4 +12,4 @@ I get excited about good writing, especially good science writing. I like to thi
 
 If you like my blog and want to follow me on Twitter, you can find me at @[rebeccaholmes](https://twitter.com/rebeccaholmes).
 
-You can also email me at [rebecca.morgan.holmes@gmail.com](rebecca.morgan.holmes@gmail.com).
+You can also email me at [contact@rebeccaholmes.net](mailto:contact@rebeccaholmes.net).
