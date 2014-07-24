@@ -254,6 +254,7 @@ tbody tr:nth-child(odd) th {
   padding-top:    1rem;
   padding-bottom: 1rem;
   margin-bottom: 6rem;
+  padding-right:1rem;
 }
 .masthead-title {
   margin-top: 0;
@@ -271,11 +272,13 @@ tbody tr:nth-child(odd) th {
 }
 
 .masthead-title .pull-right {
-  line-height:90px;
+  line-height:95px;
+  font-size:22px;
 }
 
 .masthead-title a {
   color: #f65a5b;
+  padding-bottom:7px;
 }
 
 .masthead-title a:hover, a:focus {
