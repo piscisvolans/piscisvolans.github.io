@@ -27,7 +27,7 @@ body {
 }
 @media (min-width: 38em) {
   html {
-    font-size: 22px;
+    font-size: 20px;
   }
 }
 
@@ -49,7 +49,7 @@ a:focus {
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
-  font-family:'Rokkitt',sans serif;
+  font-family:'Droid Serif',serif;
 /*   font-weight: bold; */
   line-height: 1.25;
   color: #6a6a6a;
@@ -236,7 +236,7 @@ tbody tr:nth-child(odd) th {
  */
 
 .container-content {
-  max-width: 38rem;
+  max-width: 42rem;
   padding-left:  1rem;
   padding-right: 1rem;
   margin-left:  auto;
@@ -253,7 +253,7 @@ tbody tr:nth-child(odd) th {
 .masthead {
   padding-top:    1rem;
   padding-bottom: 1rem;
-  margin-bottom: 4rem;
+  margin-bottom: 6rem;
 }
 .masthead-title {
   margin-top: 0;
@@ -271,7 +271,7 @@ tbody tr:nth-child(odd) th {
 }
 
 .masthead-title .pull-right {
-  line-height:100px;
+  line-height:90px;
 }
 
 .masthead-title a {
@@ -313,12 +313,21 @@ tbody tr:nth-child(odd) th {
 .post-title,
 .post-title a {
   color: #303030;
-  font-weight:bold;
+/*   font-weight:bold; */
 }
 .page-title,
 .post-title {
   margin-top: 0;
 }
+
+.post .pull-left {
+  margin-right:15px;
+}
+
+.post .pull-right {
+  margin-left:15px;
+}
+
 
 /* Meta data line below post title */
 .post-date {
@@ -412,3 +421,4 @@ a.pagination-item:hover {
   border-radius:5px;
   margin-bottom:2rem;
 }
+
