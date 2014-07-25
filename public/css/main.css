@@ -276,19 +276,30 @@ tbody tr:nth-child(odd) th {
 }
 
 @media (max-width: 635px) {
-.site-title {
-  font-family:'Lobster';
-  font-size:40px;
-  font-weight:normal;
-  margin-top:10px;
-  float:none;
-}
+	.site-title {
+	  font-family:'Lobster';
+	  font-size:40px;
+	  font-weight:normal;
+	  margin-top:10px;
+	  float:none;
+	  padding-left:10px;
+	}
 
-.pull-right {
-  float:left !important;
-  line-height:95px;
-  font-size:22px;
-}
+	.pull-right {
+	  float:left !important;
+	  line-height:95px;
+	  font-size:22px;
+	  margin-left:0;
+	  padding-left:0;
+	}
+
+	html, body {
+		font-size: 14px;
+	}
+	
+	p {
+	  line-height:1.6rem;
+	}
 
 }
 
