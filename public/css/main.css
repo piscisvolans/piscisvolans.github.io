@@ -33,7 +33,7 @@ body {
 
 /* No `:visited` state is required by default (browsers will use `a`) */
 a {
-  color: #f65a5b;
+  color: #e26e6f;
   text-decoration: none;
 }
 a strong {
@@ -43,7 +43,7 @@ a strong {
 a:hover,
 a:focus {
   text-decoration: underline;
-  color: #f65a5b;
+  color: #e26e6f;
 }
 
 /* Headings */
