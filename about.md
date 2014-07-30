@@ -13,7 +13,7 @@ I grew up as an Air Force brat, and I lived in Japan, New Mexico, Alabama, Germa
 	<div class="row row-centered">
 		<div class="col-md-6 col-centered">
 
-			<img class="img-responsive" src="{{ site.baseurl }}public/img/astrid.jpg">
+			<img class="img-responsive" src="{{ site.baseurl }}public/img/astrid.JPG">
 
 		</div>
 		<div class="col-md-6 col-centered">
