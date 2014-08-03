@@ -4,7 +4,7 @@ title: "How I use HabitRPG"
 comments: "True"
 ---
 
-One of the most important parts of my experimental setup, a UV laser, had to be repaired this summer. The repair took about six weeks (I had to send the laser back to the manufacturer, which my mom called "going to laser camp"), and during that time my normal work routine disappeared. At first it was kind of awesome, since I wanted to take some vacation time anyway.
+One of the most important parts of my experimental setup, a UV laser, had to be repaired this summer. The repair took about six weeks (I had to send the laser back to the manufacturer, which my mom called "going to laser camp"), and during that time my normal work routine disappeared. At first it was kind of awesome, since my schedule got a lot more flexiable I was planning to take some vacation time anyway.
 
 But eventually, I got bored. I had to do *something* at the lab, and coming up with useful stuff to do&mdash;and motivating myself to do it&mdash;got painful. My laser is back now, but in the last few weeks that it was gone I started playing around with a website called [HabitRPG](https://habitrpg.com/), which actually helped so much that I felt a little bit ridiculous.
 
