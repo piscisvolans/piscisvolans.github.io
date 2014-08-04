@@ -49,7 +49,7 @@ a:focus {
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
-  font-family:'Droid Serif', serif;
+  font-family: "Droid Serif", georgia, serif;
   line-height: 1.25;
   color: #6a6a6a;
 }
@@ -344,6 +344,10 @@ tbody tr:nth-child(odd) th {
   clear:both;
 }
 
+.post {
+  border-bottom: 1px solid #eee;
+}
+
 /* Blog post or page title */
 .page-title,
 .post-title,
@@ -378,9 +382,7 @@ tbody tr:nth-child(odd) th {
 
 /* Related posts */
 .related {
-  padding-top: 2rem;
   padding-bottom: 2rem;
-  border-top: 1px solid #eee;
 }
 .related-posts {
   padding-left: 0;

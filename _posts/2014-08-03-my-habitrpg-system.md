@@ -55,9 +55,7 @@ a) Be something I want to stop doing ("No caffeine after 3PM"), or
 
 b) Be something I want to encourage that needs a little extra motivation ("Bring lunch").
 
-Finally, I have a special class of Habits with the "being awesome" tag. These are things like "read a book," "yoga practice" and "play guitar." I can check off the "Be awesome" Daily by doing any of them. (I just called it "being awesome" for fun... and because I didn't want to call it something lame like "personal development.")
-
-<hr>
+Finally, I have a special class of Habits with the "being awesome" tag. These are things like "read a book," "yoga practice" and "play guitar." I can check off the "Be awesome" Daily by doing any of them. (I just called it "being awesome" to avoid something lame like "personal development.")
 
 The other category of tasks, To-Dos, are pretty straightforward, so I guess that's about it. I hope it was useful for anyone starting out with HabitRPG. 
 
