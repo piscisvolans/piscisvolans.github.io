@@ -2,6 +2,7 @@
 layout: post
 title: "How I use HabitRPG"
 comments: "True"
+more: "True"
 ---
 
 One of the most important parts of my experimental setup, a UV laser, had to be repaired this summer. The repair took about six weeks (I had to send the laser back to the manufacturer, which my mom called "going to laser camp"), and during that time my normal work routine disappeared. At first it was kind of awesome, since my schedule got a lot more flexible and I was planning to take some vacation time anyway.
@@ -17,6 +18,7 @@ Yes. And that's okay.
 It's almost entirely up to the player to decide how the game works, because you enter your own tasks and give yourself points for accomplishing them. It's also up to the player to keep the game balanced and reasonably challenging, which can be tricky when you can give yourself credit for waking up in the morning or flushing the toilet, or lose a bunch of health from tasks that you're never going to do every day ("Write Awesome Blog Post").
 
 This is how I try to make HabitRPG useful and fun. There's also lot of good information about how to use the game on the [HabitRPG wiki](http://habitrpg.wikia.com/wiki/HabitRPG_Wiki).
+<!--more-->
 
 Categories
 --------------
