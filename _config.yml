@@ -10,7 +10,7 @@ title:            Rebecca Holmes
 tagline:          ""
 url:              http://rebeccaholmes.net
 paginate:         5
-baseurl:          /
+baseurl:          ""
 excerpt_separator: <!--more-->
 author:
   name:           Rebecca Holmes

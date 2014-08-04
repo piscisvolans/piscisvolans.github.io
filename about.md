@@ -13,12 +13,12 @@ These are the two cats that live with me, Astrid and Emmy:
 	<div class="row row-centered">
 		<div class="col-md-6 col-centered">
 
-			<img class="img-responsive" src="{{ site.baseurl }}public/img/astrid.JPG">
+			<img class="img-responsive" src="{{ site.baseurl }}/public/img/astrid.JPG">
 
 		</div>
 		<div class="col-md-6 col-centered">
 
-			<img class="img-responsive" src="{{ site.baseurl }}public/img/emmy.jpg">
+			<img class="img-responsive" src="{{ site.baseurl }}/public/img/emmy.jpg">
 
 		</div>
 		

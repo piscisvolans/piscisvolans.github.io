@@ -9,7 +9,7 @@ One of the most important parts of my experimental setup, a UV laser, had to be 
 
 But eventually, I got bored. I had to do *something* at the lab, and coming up with useful stuff to do&mdash;and motivating myself to do it&mdash;got painful. My laser is back now, but in the last few weeks that it was gone I started playing around with a website called [HabitRPG](https://habitrpg.com/), which actually helped so much that I felt a little bit ridiculous.
 
-<img class="img-responsive pull-left" src="{{ site.baseurl }}public/img/avatar.gif" title="My HabitRPG avatar">
+<img class="img-responsive pull-left" src="{{ site.baseurl }}/public/img/avatar.gif" title="My HabitRPG avatar">
 
 In HabitRPG, you're represented by a little role-playing game avatar who gains (or loses) points when you do (or don't do) what you're supposed to in real life. This is so motivating that you will be ashamed. Was this really all your life needed? A pixelated hero who can buy a sword and a pet tiger cub if you make it to work on time? 
 
@@ -24,14 +24,14 @@ This is how I try to make HabitRPG useful and fun. There's also lot of good info
 Categories
 --------------
 
-<img class="img-responsive" src="{{ site.baseurl }}public/img/tags.gif" title="My HabitRPG tags">
+<img class="img-responsive" src="{{ site.baseurl }}/public/img/tags.gif" title="My HabitRPG tags">
 
 I use the tags feature to sort my tasks into categories. I have a bunch of categories because I like organizing things, but the main ones are "lab" and "personal." I use these tags to filter lab-related stuff when I'm at home and personal stuff when I'm at the lab. There's also a special "being awesome" tag, which corresponds to a particular daily task that I'll explain below.
 
 Daily tasks
 ---------------
 
-<img class="img-responsive pull-right" src="{{ site.baseurl }}public/img/dailies.gif" title="My HabitRPG Dailies">
+<img class="img-responsive pull-right" src="{{ site.baseurl }}/public/img/dailies.gif" title="My HabitRPG Dailies">
 
 My daily tasks meet two criteria:
 
@@ -48,7 +48,7 @@ A lot of the Dailies in this screenshot are greyed out, because it's Sunday and 
 Habits
 --------------
 
-<img class="img-responsive pull-right" src="{{ site.baseurl }}public/img/habits-lab.gif" title="My HabitRPG lab habits">
+<img class="img-responsive pull-right" src="{{ site.baseurl }}/public/img/habits-lab.gif" title="My HabitRPG lab habits">
 
 Habits are a different type of task which don't need to be checked off every day, but can be used to give yourself points for doing something beneficial (or to do damage for bad habits).
 
