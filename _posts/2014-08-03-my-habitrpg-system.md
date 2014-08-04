@@ -19,6 +19,7 @@ It's almost entirely up to the player to decide how the game works, because you 
 
 This is how I try to make HabitRPG useful and fun. There's also lot of good information about how to use the game on the [HabitRPG wiki](http://habitrpg.wikia.com/wiki/HabitRPG_Wiki).
 <!--more-->
+<div id="more"></div>
 
 Categories
 --------------

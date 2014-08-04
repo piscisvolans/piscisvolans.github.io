@@ -141,6 +141,10 @@ pre code {
   background-color: transparent;
 }
 
+#more {
+  margin-top:20px;
+}
+
 /* Pygments via Jekyll */
 .highlight {
   margin-bottom: 1rem;
@@ -344,10 +348,6 @@ tbody tr:nth-child(odd) th {
   clear:both;
 }
 
-.post {
-  border-bottom: 1px solid #eee;
-}
-
 /* Blog post or page title */
 .page-title,
 .post-title,
@@ -383,6 +383,7 @@ tbody tr:nth-child(odd) th {
 /* Related posts */
 .related {
   padding-bottom: 2rem;
+  border-top: 1px solid #eee;
 }
 .related-posts {
   padding-left: 0;
