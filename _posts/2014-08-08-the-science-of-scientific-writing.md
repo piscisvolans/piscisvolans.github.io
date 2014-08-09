@@ -23,7 +23,7 @@ These are pretty radical ideas. The topic of good writing often provokes only ap
 <!--more-->
 <div id="more"></div>
 
-Authors George Gopen and Judith Swan go on to explain that readers expect to see certain information in certain locations in a sentence or paragraph. Writing is easy to follow when these expectations are met, and more difficult when these expectations are frustrated. If the writer is familiar with the reader's expectations, it's possible to construct friendly sentences even when explaining difficult concepts. 
+Authors George Gopen and Judith Swan go on to explain that readers expect to see certain information in certain locations in a sentence or paragraph. Writing is easy to follow when these expectations are met, and more difficult when these expectations are frustrated. If the writer is familiar with the reader's expectations, it's possible to construct friendly sentences about difficult concepts.
 
 The article gives seven specific guidelines for fixing bad sentences, with examples from real publications. It focuses on making prose more readable by altering the sentence structure, not by dumbing down the science. I recommend it for anyone who writes journal papers, conference submissions, grant proposals, lab reports, a thesis, or any other kind of technical writing.
 
