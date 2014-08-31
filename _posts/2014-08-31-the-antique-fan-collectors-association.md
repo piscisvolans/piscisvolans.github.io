@@ -12,7 +12,7 @@ But I still wasn't that interested.
 
 Almost anything is really interesting to someone, so I looked for people who like fans&mdash;maybe they could tell me why I should care. I found the [Antique Fan Collectors Association](http://www.fancollectors.org/), which has "over 500 members with a wide variety of backgrounds." The AFCA has an active [forum](http://www.afcaforum.com/) (where members discuss antique fan restoration techniques, the [100th anniversary of the bowl heater](http://www.afcaforum.com/forum1/34237.html), and [other things](http://www.afcaforum.com/view_post.php?post_id=277514)) and, of course, an annual convention called the Fan Fair.
 
-Old stuff is appealing, and old mechanical or electronic stuff is even better. Personally, I'm fond of [old scientific equipment](http://eecue.com/b/743/The-Black-Hole---Los-Alamos-Laboratory-Salvage-Yard.html), especially from about the 1960s through the 1980s. It makes me feel like I'm part of some scientific adventure, maybe watching telemetry readouts in mission control during the Apollo program. But why *fans*? The AFCA says
+Old stuff is appealing, and old mechanical or electronic stuff is even better. Personally, I'm fond of [old scientific equipment](http://eecue.com/b/743/The-Black-Hole---Los-Alamos-Laboratory-Salvage-Yard.html), especially from about the 1960s through the 1980s. It makes me feel like I'm part of a science adventure, maybe watching telemetry readouts in mission control during the Apollo program. But why *fans*? The AFCA says
 
 >Antique fans ... are excellent examples of the industrial, technological and stylistic advancement of modern culture.
 
