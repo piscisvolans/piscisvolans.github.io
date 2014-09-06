@@ -12,6 +12,10 @@ url:              http://rebeccaholmes.net
 paginate:         5
 baseurl:          ""
 excerpt_separator: <!--more-->
+author:
+  name:           Rebecca Holmes
+  url:            https://twitter.com/rebeccaholmes
+  email:          rebecca.morgan.holmes@gmail.com
 
 # Custom vars
 version:          1.0.0
@@ -20,8 +24,4 @@ github:
 pages_list:       
   About: '/about'
   Archive: '/archive'
-  Feed: '/rss.xml'
-
-name: Rebecca Holmes' Blog
-description: Science, writing, and other stuff.
-  
+  Feed: '/atom.xml'
