@@ -7,8 +7,10 @@ permalink:        pretty
 
 # Setup
 title:            Rebecca Holmes
+name:			  Rebecca Holmes' Blog
 tagline:          ""
 url:              http://rebeccaholmes.net
+description:	  Science, writing, and other stuff.
 paginate:         5
 baseurl:          ""
 excerpt_separator: <!--more-->
@@ -24,4 +26,4 @@ github:
 pages_list:       
   About: '/about'
   Archive: '/archive'
-  Feed: '/atom.xml'
+  Feed: '/rss.xml'
