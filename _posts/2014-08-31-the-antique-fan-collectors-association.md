@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fans?"
+title: "Everything is interesting"
 comments: "True"
 ---
 
