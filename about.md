@@ -28,7 +28,8 @@ These are the two cats that live with me, Astrid and Emmy:
 <h3>Here are some recent Ask the Van questions I've answered:</h3>
 <ul>
 
-{% for entry in site.data.askthevan reversed limit: 5 %}
+{% assign answers = site.data.askthevan %}
+{% for entry in answers reversed %}
 		<li>{{ entry.date | date: "%-m/%-d/%y"}}: <a href="{{ entry.url }}">{{ entry.title }}</a></li>
 {% endfor %}
 
