@@ -279,10 +279,10 @@ tbody tr:nth-child(odd) th {
 
 .site-title {
   float:left;
-  font-family:'Lobster';
-  font-size:50px;
+  font-family:'Droid Serif';
+  font-size:34px;
   font-weight:normal;
-  margin-top:10px;
+  margin-top:23px;
 }
 
 .masthead-title .pull-right {
@@ -292,10 +292,6 @@ tbody tr:nth-child(odd) th {
 
 @media (max-width: 635px) {
 	.site-title {
-	  font-family:'Lobster';
-	  font-size:40px;
-	  font-weight:normal;
-	  margin-top:10px;
 	  float:none;
 	  padding-left:10px;
 	}
