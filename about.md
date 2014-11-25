@@ -25,16 +25,13 @@ These are the two cats that live with me, Astrid and Emmy:
 	</div>
 </div>
 </div>
-<h3>Here are some recent Ask the Van questions I've answered:</h3>
-<ul>
 
-{% assign answers = site.data.askthevan %}
-{% for entry in answers reversed %}
-		<li>{{ entry.date | date: "%-m/%-d/%y"}}: <a href="{{ entry.url }}">{{ entry.title }}</a></li>
-{% endfor %}
+###Most recent Ask the Van answer:</h3>
 
-</ul>
-<p><a href="{{ site.baseurl }}/askthevan">Complete list of answers &raquo;</a></p>
+{{ site.data.askthevan.last.date | date: "%-m/%-d/%y"}}: <a href="{{ site.data.askthevan.last.url }}">{{ site.data.askthevan.last.title }}
+
+<a href="{{ site.baseurl }}/askthevan">Complete list of answers &raquo;</a>
+
 <hr>
 If you like my blog and want to follow me on Twitter, you can find me at @[rebeccaholmes](https://twitter.com/rebeccaholmes).
 
