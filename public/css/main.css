@@ -36,12 +36,9 @@ a {
   color: #e26e6f;
   text-decoration: none;
 }
-a strong {
-  color: inherit;
-}
+
 /* `:focus` is linked to `:hover` for basic accessibility */
-a:hover,
-a:focus {
+a:hover {
   text-decoration: underline;
   color: #e26e6f;
 }
@@ -319,7 +316,7 @@ tbody tr:nth-child(odd) th {
   padding-bottom:7px;
 }
 
-.masthead-title a:hover, a:focus {
+.masthead-title a:hover {
   text-decoration:none;
   border-bottom: 3px solid #f65a5b;
 }
