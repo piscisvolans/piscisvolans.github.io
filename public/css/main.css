@@ -37,7 +37,6 @@ a {
   text-decoration: none;
 }
 
-/* `:focus` is linked to `:hover` for basic accessibility */
 a:hover {
   text-decoration: underline;
   color: #e26e6f;
