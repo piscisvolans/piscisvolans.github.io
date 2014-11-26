@@ -45,8 +45,9 @@ a:hover {
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
-  font-family: "Droid Serif",serif;
+  font-family: "Bitter",serif;
   line-height: 1.25;
+  font-weight:200;
   color: #6a6a6a;
 }
 h1 {
@@ -275,10 +276,10 @@ tbody tr:nth-child(odd) th {
 
 .site-title {
   float:left;
-  font-family:'Droid Serif';
-  font-size:34px;
+  font-family:'Bitter',serif;
+  font-size:1.9rem;
   font-weight:normal;
-  margin-top:23px;
+  margin-top:1rem;
 }
 
 .masthead-title .pull-right {
@@ -349,7 +350,7 @@ tbody tr:nth-child(odd) th {
 .page-title,
 .post-title,
 .post-title a {
-  color: #333;
+  color: #444;
 }
 .page-title,
 .post-title {
