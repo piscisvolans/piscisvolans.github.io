@@ -42,7 +42,7 @@ Follow these 10 steps:
   <img src="{{ site.baseurl }}/public/img/halloweengroup.JPG" class="img-responsive thumbnail" width="100%">
   This is most of my <a href="http://research.physics.illinois.edu/QI/Photonics/">research group</a>, showing off our costumes.
   
-10. After all that trouble, vow that you'll wear this costume every year, until you become a real astronaut or it fits your future children (who are going to have to wear it every year, too).
+10. After all that trouble, vow that you'll wear this costume every year, until you become a real astronaut or it fits your <a href="https://twitter.com/Cmdr_Hadfield/status/394463633142345728">future</a> <a href="https://twitter.com/TheLollybug/status/394586318132375552">children</a> (who are going to have to wear it every year, too).
 
 Good luck!
 
