@@ -16,7 +16,7 @@ more: "True"
 </div>
 </div>
 
-*if you are a petite lady
+*especially if you are a petite woman
 
 Follow these 10 steps:
 
