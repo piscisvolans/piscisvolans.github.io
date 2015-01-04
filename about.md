@@ -35,6 +35,6 @@ These are the two cats that live with me, Astrid and Emmy:
 <hr>
 If you like my blog and want to follow me on Twitter, you can find me at @[rebeccaholmes](https://twitter.com/rebeccaholmes).
 
-You can also email me at [contact@rebeccaholmes.net](mailto:contact@rebeccaholmes.net).
+You can also email me at [rholmes4@illinois.edu](mailto:rholmes4@illinois.edu).
 
 <a href="{{ site.baseurl }}/public/pdf/webcv_1-15.pdf">Here</a> is my current CV.
