@@ -108,7 +108,7 @@ hr {
 
 /* Code */
 code,
-pre {
+pre .code {
   font-family: Menlo, Monaco, "Courier New", monospace;
 }
 code {
@@ -118,7 +118,7 @@ code {
   background-color: #f9f9f9;
   border-radius: 3px;
 }
-pre {
+pre .code {
   display: block;
   margin-top: 0;
   margin-bottom: 1rem;
@@ -171,6 +171,29 @@ pre code {
   color: inherit;
   background-color: transparent;
   border-radius: 0;
+}
+
+/* Poem formatting */
+pre.poem {
+  font-family: "Droid Serif",serif;
+  font-size: 15px;
+  font-weight:300;
+  color: #333;
+  white-space: pre;
+  white-space: pre-wrap;
+  word-break: break-all;
+  word-wrap: break-word;
+  display: block;
+  line-height:1.5;
+  padding: 10px 0px 0px 0px;
+  border: none;
+  background-color:#fff;
+}
+
+p.date {
+  font-size: 12px;
+  padding-top: 20px;
+  padding-bottom:70px;
 }
 
 /* Quotes */
