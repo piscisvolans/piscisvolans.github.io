@@ -110,7 +110,7 @@ trace the inheritance
 of my eyeglasses and curls. 
  
 You never asked if I needed a home. 
-You never showed me the other side. 
+You never told me what you contain. 
 You never welcomed me, 
  
 only marked me and let me go, 
