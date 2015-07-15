@@ -7,7 +7,7 @@ Contact me at [rholmes4@illinois.edu](mailto:rholmes4@illinois.edu) with comment
 
 I had many excellent teachers at [UNC](http://englishcomplit.unc.edu/creative) and elsewhere. 
 
-##Selected works:
+##Selected poems:
 * [Kola Superdeep Borehole](#kola-superdeep-borehole)
 * [First fall in Illinois](#first-fall-in-illinois)
 * [South](#south)
