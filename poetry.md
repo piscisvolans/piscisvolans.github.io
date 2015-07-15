@@ -3,20 +3,23 @@ layout: page
 title: "Poetry"
 ---
 
-## 2013
+Contact me at [rholmes4@illinois.edu](mailto:rholmes4@illinois.edu) with comments or questions.
+
+I had many excellent teachers at [UNC](http://englishcomplit.unc.edu/creative) and elsewhere. 
+
+##Selected works:
 * [Kola Superdeep Borehole](#kola-superdeep-borehole)
 * [First fall in Illinois](#first-fall-in-illinois)
 * [South](#south)
 * [Cat](#cat)
-
-## 2010
 * [On the way to Mars](#on-the-way-to-mars)
 * [The fighter pilot](#the-fighter-pilot)
 * [Los Alamos, 2010](#los-alamos-2010)
 * [Living fossils](#living-fossils)
 * [Leaving Holland](#leaving-holland)
-
-#2013
+<hr>
+<br>
+<br>
 <h2 id="kola-superdeep-borehole">Kola Superdeep Borehole</h2>
 <pre class="poem">
 No roadside attraction invites me 
@@ -147,8 +150,6 @@ I wake to something tugging, grooming my hair,
 a sexless mother in her own dream of instinct and origin.
 </pre>
 <p class="date">October 2013</p>
-
-#2010
 
 <h2 id="on-the-way-to-mars">On the way to Mars</h2>
 <pre class="poem">
