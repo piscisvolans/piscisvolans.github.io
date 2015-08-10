@@ -37,4 +37,6 @@ If you like my blog and want to follow me on Twitter, you can find me at @[rebec
 
 You can also email me at [rholmes4@illinois.edu](mailto:rholmes4@illinois.edu).
 
+On GitHub, I'm [piscisvolans](https://github.com/piscisvolans).
+
 <a href="{{ site.baseurl }}/public/pdf/webcv_6-15.pdf">Here</a> is my current CV.
