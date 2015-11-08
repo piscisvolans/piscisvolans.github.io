@@ -38,4 +38,9 @@ You can follow me on Twitter at @[rebeccaholmes](https://twitter.com/rebeccaholm
 
 You can also email me at [rholmes4@illinois.edu](mailto:rholmes4@illinois.edu).
 
+<<<<<<< HEAD
 <a href="{{ site.baseurl }}/public/pdf/webcv_11-15.pdf">Here</a> is my current CV.
+=======
+On GitHub, I'm [piscisvolans](https://github.com/piscisvolans).
+
+<a href="{{ site.baseurl }}/public/pdf/webcv_6-15.pdf">Here</a> is my current CV.
