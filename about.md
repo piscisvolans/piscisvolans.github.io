@@ -3,9 +3,9 @@ layout: page
 title: "About"
 ---
 
-I'm a graduate student in the [physics department](http://physics.illinois.edu/) at the University of Illinois at Urbana-Champaign, where I do research on quantum optics with [a group of awesome people](http://research.physics.illinois.edu/QI/Photonics/). After grad school (graduation expected December 2016) I hope to help humans get to Mars.
+I'm a graduate student in the [physics department](http://physics.illinois.edu/) at the University of Illinois at Urbana-Champaign, where I do research on quantum optics with [a group of awesome people](http://research.physics.illinois.edu/QI/Photonics/). After grad school (Ph.D. expected 2016) I want to solve technology and policy problems in space exploration and help humans get to Mars.
 
-I'm a former Air Force brat who loves writing, spaceships, Americana music, and cats.
+I grew up as an Air Force brat and I love writing, spaceships, Americana music, and cats.
 <div class="about">
 <div class="container">
 	<div class="row row-centered">
@@ -38,4 +38,4 @@ You can follow me on Twitter at @[rebeccaholmes](https://twitter.com/rebeccaholm
 
 You can also email me at [rholmes4@illinois.edu](mailto:rholmes4@illinois.edu).
 
-<a href="{{ site.baseurl }}/public/pdf/webcv_6-15.pdf">Here</a> is my current CV.
+<a href="{{ site.baseurl }}/public/pdf/webcv_11-15.pdf">Here</a> is my current CV.
