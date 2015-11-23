@@ -4,14 +4,14 @@
 /* Variables */
 $primary-color: #f65a5b;
 /* $primary-color: #5A5BF6; */
-/* $primary-color: #3E3FAC;*/
+/* $primary-color: #4848c4; */
 $active-link: darken($primary-color, 20%);
 $body-color: #333;
 $headings-color: #6a6a6a;
 $lighter-headings-color: #999;
 $darker-headings-color: #444;
 $sans-font-stack: Oswald, sans-serif;
-$serif-font-stack: Droid Serif, serif;
+$serif-font-stack: "Georgia", serif;
 $site-title-font-stack: $sans-font-stack;
 
 
@@ -35,7 +35,7 @@ body {
 
 body {
   font-family: $serif-font-stack;
-  font-size: 15px;
+  font-size: 16px;
   font-weight:normal;
   color: $body-color;
   background-color: #fff;
@@ -221,7 +221,9 @@ p.date {
 blockquote {
   padding: .5rem 1rem;
   margin: .8rem 0;
-  color: #7a7a7a;
+  color: $darker-headings-color;
+  font-family: $serif-font-stack;
+  font-weight: light;
   border-left: .25rem solid #e5e5e5;
 }
 blockquote p:last-child {
