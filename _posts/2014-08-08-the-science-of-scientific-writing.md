@@ -4,15 +4,13 @@ title: "The seven principles of scientific writing"
 comments: "True"
 more: "True"
 ---
-#####"The enthalpy of hydrogen bond formation between the nucleoside bases 2'deoxyguanosine (dG) and 2'deoxycytidine (dC) has been determined by direct measurement. dG and dC were derivatized at the 5' and 3' hydroxyls with triisopropylsilyl groups to obtain solubility of the nucleosides in non-aqueous solvents and to prevent the ribose hydroxyls from forming hydrogen bonds. From isoperibolic titration measurements, the enthalpy of dC:dG base pair formation is -6.65±0.32 kcal/mol."
+####"The enthalpy of hydrogen bond formation between the nucleoside bases 2'deoxyguanosine (dG) and 2'deoxycytidine (dC) has been determined by direct measurement. dG and dC were derivatized at the 5' and 3' hydroxyls with triisopropylsilyl groups to obtain solubility of the nucleosides in non-aqueous solvents and to prevent the ribose hydroxyls from forming hydrogen bonds. From isoperibolic titration measurements, the enthalpy of dC:dG base pair formation is -6.65±0.32 kcal/mol."
 
 Do you have any idea what's going on in the paragraph above? Unless you're a chemist, there are probably a lot of unfamiliar words&mdash;but that's not the only problem.
 
-[The Science of Scientific Writing](http://www.americanscientist.org/issues/pub/the-science-of-scientific-writing/) is one of the best articles I've read about the trouble with scientific writing and how to fix it. It was first published in 1990, but things haven't changed.
+[The Science of Scientific Writing](http://www.americanscientist.org/issues/pub/the-science-of-scientific-writing/) is one of the best articles I've read about the trouble with scientific writing and how to fix it. It was first published in 1990, but things haven't changed. From the introduction:
 
-From the introduction:
-
-> Science is often hard to read. Most people assume that its difficulties are born out of necessity, out of the extreme complexity of scientific concepts, data and analysis. We argue here that complexity of thought need not lead to impenetrability of expression; we demonstrate a number of rhetorical principles that can produce clarity in communication without oversimplifying scientific issues. The results are substantive, not merely cosmetic: Improving the quality of writing actually improves the quality of thought.
+>Science is often hard to read. Most people assume that its difficulties are born out of necessity, out of the extreme complexity of scientific concepts, data and analysis. We argue here that complexity of thought need not lead to impenetrability of expression; we demonstrate a number of rhetorical principles that can produce clarity in communication without oversimplifying scientific issues. The results are substantive, not merely cosmetic: Improving the quality of writing actually improves the quality of thought.
 
 These are pretty radical ideas. The topic of good writing often provokes only apathy in scientists&mdash;"This is complicated stuff, you can't expect it to be easy to read"&mdash;"I've never been an English person, but you know what I meant to say"&mdash;"Well, the science is good, that's what's important." This article argues that
 

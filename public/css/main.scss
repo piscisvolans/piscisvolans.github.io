@@ -1,3 +1,20 @@
+---
+---
+
+/* Variables */
+$primary-color: #f65a5b;
+/* $primary-color: #5A5BF6; */
+/* $primary-color: #3E3FAC;*/
+$active-link: darken($primary-color, 20%);
+$body-color: #333;
+$headings-color: #6a6a6a;
+$lighter-headings-color: #999;
+$darker-headings-color: #444;
+$sans-font-stack: Oswald, sans-serif;
+$serif-font-stack: Droid Serif, serif;
+$site-title-font-stack: $sans-font-stack;
+
+
 /*
  * Body resets
  *
@@ -17,10 +34,10 @@ body {
 }
 
 body {
-  font-family: "Droid Serif",serif;
+  font-family: $serif-font-stack;
   font-size: 15px;
-  font-weight:300;
-  color: #333;
+  font-weight:normal;
+  color: $body-color;
   background-color: #fff;
   text-rendering: optimizeLegibility;
   -webkit-text-size-adjust: 100%;
@@ -33,43 +50,46 @@ body {
 
 /* No `:visited` state is required by default (browsers will use `a`) */
 a {
-  color: #f65a5b;
+  color: $primary-color;
   text-decoration: none;
 }
 
 a:hover {
   text-decoration: underline;
-  color: #e26e6f;
+  color: $active-link;
 }
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
-  font-family: "Bitter",serif;
+  font-family: $sans-font-stack;
   line-height: 1.25;
-  font-weight:200;
-  color: #6a6a6a;
+  font-weight:normal;
+  color: $headings-color;
 }
 h1 {
   font-size: 2.5rem;
 }
 h2 {
   margin-top: 1rem;
+  margin-bottom: 1rem;
   font-size: 1.5rem;
 }
 h3 {
-  margin-top: 1.5rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
   font-size: 1.25rem;
 }
 h4, h5, h6 {
   margin-top: 1rem;
+  margin-bottom: 1rem;
   font-size: 1rem;
 }
 
 /* Body text */
 p {
   margin-top: 0;
-  margin-bottom: 1rem;
+  /* margin-bottom: 1rem; */
   line-height:1.2rem;
 }
 
@@ -103,7 +123,7 @@ hr {
 .footer {
   padding-top:30px;
   clear:both;
-  color: #6a6a6a;
+  color: $headings-color;
 }
 
 /* Code */
@@ -175,10 +195,10 @@ pre code {
 
 /* Poem formatting */
 pre.poem {
-  font-family: "Droid Serif",serif;
+  font-family: $serif-font-stack;
   font-size: 15px;
   font-weight:300;
-  color: #333;
+  color: $body-color;
   white-space: pre-wrap;
   word-break: keep-all;
   word-wrap: normal;
@@ -191,6 +211,7 @@ pre.poem {
 }
 
 p.date {
+  font-family: $sans-font-stack;
   font-size: 12px;
   padding-top: 20px;
   padding-bottom:70px;
@@ -293,13 +314,13 @@ tbody tr:nth-child(odd) th {
 .masthead-title {
   margin-top: 0;
   margin-bottom: 0;
-  color: #f65a5b;
+  color: $primary-color;
   clear:none;
 }
 
 .site-title {
   float:left;
-  font-family:'Bitter',serif;
+  font-family: $site-title-font-stack;
   font-size:1.9rem;
   font-weight:normal;
   margin-top:1rem;
@@ -336,24 +357,24 @@ tbody tr:nth-child(odd) th {
 }
 
 .masthead-title a {
-  color: #f65a5b;
+  color: $primary-color;
   padding-bottom:7px;
 }
 
 .masthead-title a:hover {
   text-decoration:none;
-  border-bottom: 3px solid #f65a5b;
+  border-bottom: 3px solid $primary-color;
 }
 
 .masthead-title small {
-  font-size: 75%;
-  font-weight: 400;
-  color: #f65a5b;
+  font-size: 90%;
+  font-weight: normal;
+  color: $primary-color;
   letter-spacing: 0;
 }
 
 .masthead-title .active {
-  border-bottom: 3px solid #f65a5b;
+  border-bottom: 3px solid $primary-color;
 }
 
 
@@ -374,11 +395,12 @@ tbody tr:nth-child(odd) th {
 .page-title,
 .post-title,
 .post-title a {
-  color: #444;
+  color: $darker-headings-color;
 }
 .page-title,
 .post-title {
   margin-top: 0;
+  margin-bottom: 20px;
 }
 
 .post .pull-left {
@@ -394,12 +416,16 @@ tbody tr:nth-child(odd) th {
 .post-date {
   display: block;
   margin-top: -.5rem;
-  color: #9a9a9a;
+  color: $lighter-headings-color;
+  font-family: $sans-font-stack;
+  size: 18px;
 }
 
 .post-comments {
   margin-bottom: 1rem;
   display:block;
+  font-family: $sans-font-stack;
+  size: 18px;
 }
 
 /* Related posts */
@@ -416,10 +442,10 @@ tbody tr:nth-child(odd) th {
 }
 .related-posts li small {
   font-size: 75%;
-  color: #999;
+  color: $lighter-headings-color;
 }
 .related-posts li a:hover {
-  color: #f65a5b;
+  color: $active-link;
   text-decoration: none;
 }
 .related-posts li a:hover small {
@@ -506,16 +532,16 @@ a.pagination-item:hover {
 }
 
 .back-to-top {
-background: none;
-margin: 0;
-position: fixed;
-bottom: 0;
-right: 0;
-width: 70px;
-height: 70px;
-z-index: 100;
-display: none;
-text-decoration: none;
+	background: none;
+	margin: 0;
+	position: fixed;
+	bottom: 0;
+	right: 0;
+	width: 70px;
+	height: 70px;
+	z-index: 100;
+	display: none;
+	text-decoration: none;
 }
  
 .back-to-top i {
