@@ -2,15 +2,16 @@
 ---
 
 /* Variables */
-$primary-color: #f65a5b;
-/* $primary-color: #5A5BF6; */
+/* $primary-color: #f65a5b; */
+/* $primary-color: #5A5BF6;  */
 /* $primary-color: #4848c4; */
+$primary-color: #bf0023;
 $active-link: darken($primary-color, 20%);
 $body-color: #333;
 $headings-color: #6a6a6a;
 $lighter-headings-color: #999;
 $darker-headings-color: #444;
-$sans-font-stack: Oswald, sans-serif;
+$sans-font-stack: "Oswald", sans-serif;
 $serif-font-stack: "Georgia", serif;
 $site-title-font-stack: $sans-font-stack;
 
@@ -68,7 +69,7 @@ h1, h2, h3, h4, h5, h6 {
   color: $headings-color;
 }
 h1 {
-  font-size: 2.5rem;
+  font-size: 2rem;
 }
 h2 {
   margin-top: 1rem;
@@ -288,7 +289,7 @@ tbody tr:nth-child(odd) th {
  */
 
 .container {
-  max-width: 42rem;
+  max-width: 48rem;
   padding-left:  1rem;
   padding-right: 1rem;
   margin-left:  auto;
@@ -454,6 +455,9 @@ tbody tr:nth-child(odd) th {
   color: inherit;
 }
 
+.thumbnail {
+	border: none;
+}
 
 /*
  * Pagination
@@ -517,8 +521,9 @@ a.pagination-item:hover {
 }
 
 .about .img-responsive {
-  border-radius:5px;
+/*   border-radius:5px; */
   margin-bottom:15px;
+  width: 100%;
 }
 
 .row-centered {

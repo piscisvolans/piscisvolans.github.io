@@ -1,24 +1,12 @@
 ---
 layout: post
-title: "How to dress up as an astronaut for Halloween*"
+title: "How to dress up as an astronaut for Halloween"
 comments: "True"
 more: "True"
 ---
+<img src="{{ site.baseurl }}/public/img/suit4.jpg" width="100%" class="thumbnail">
 
-<div class="row row-centered">
-
-<div class="col-sm-6 col-centered">
-<img src="{{ site.baseurl }}/public/img/suit2.JPG" width="100%" class="thumbnail">
-</div>
-
-<div class="col-sm-6 col-centered">
-<img src="{{ site.baseurl }}/public/img/suit1.JPG" width="100%" class="thumbnail">
-</div>
-</div>
-
-*especially if you are a petite woman
-
-Follow these 10 steps:
+##Follow these 10 steps:
 
 1. Casually Google *astronaut costume*, intending to buy one of those cheap flight suits you saw in the gift shop of the Air & Space Museum as a kid (or um, more recently). Nothing seems to come in women's sizes.
 

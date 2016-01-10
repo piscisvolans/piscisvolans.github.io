@@ -13,14 +13,14 @@ I love writing, science fiction, Americana music, and cats. As a kid I was an Ai
 <div class="container">
 	<div class="row row-centered">
 	
-		<div class="col-md-4 col-centered">
+		<div class="col-md-6 col-centered">
 
-			<img class="img-responsive" src="{{ site.baseurl }}/public/img/astrid.JPG">
+			<img class="img-responsive" src="{{ site.baseurl }}/public/img/astrid2.JPG">
 
 		</div>
-		<div class="col-md-4 col-centered">
+		<div class="col-md-6 col-centered">
 
-			<img class="img-responsive" src="{{ site.baseurl }}/public/img/emmy.jpg">
+			<img class="img-responsive" src="{{ site.baseurl }}/public/img/me.jpg">
 
 		</div>
 		
