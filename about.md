@@ -2,7 +2,6 @@
 layout: page
 title: "About"
 ---
-
 I'm a graduate student in the [physics department](http://physics.illinois.edu/) at the University of Illinois at Urbana-Champaign, where I do research on quantum optics with [a group of awesome people](http://research.physics.illinois.edu/QI/Photonics/).
 
 After grad school (Ph.D. expected 2016) I want to solve technology and policy problems in space exploration and help put humans on Mars.
@@ -15,7 +14,7 @@ I love writing, science fiction, Americana music, and cats. As a kid I was an Ai
 	
 		<div class="col-md-6 col-centered">
 
-			<img class="img-responsive" src="{{ site.baseurl }}/public/img/astrid2.jpg">
+			<img class="img-responsive" src="{{ site.baseurl }}/public/img/astrid3.jpg">
 
 		</div>
 		<div class="col-md-6 col-centered">
@@ -40,7 +39,7 @@ I have some projects on GitHub as [piscisvolans](https://github.com/piscisvolans
 
 ###Most recent Ask the Van answer:</h3>
 
-####{{ site.data.askthevan.last.date | date: "%-m/%-d/%y"}}: <a href="{{ site.data.askthevan.last.url }}">{{ site.data.askthevan.last.title }}</a>
+{{ site.data.askthevan.last.date | date: "%-m/%-d/%y"}}: <a href="{{ site.data.askthevan.last.url }}">{{ site.data.askthevan.last.title }}</a>
 
 I help answer science questions on the physics department's [Ask the Van](http://van.physics.illinois.edu/qa/) Q&A website.
 

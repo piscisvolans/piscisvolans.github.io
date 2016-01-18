@@ -5,8 +5,7 @@ comments: "True"
 more: "True"
 ---
 <img src="{{ site.baseurl }}/public/img/suit4.jpg" width="100%" class="thumbnail">
-
-##Follow these 10 steps:
+In 10 steps:
 
 1. Casually Google *astronaut costume*, intending to buy one of those cheap flight suits you saw in the gift shop of the Air & Space Museum as a kid (or um, more recently). Nothing seems to come in women's sizes.
 
@@ -14,7 +13,7 @@ more: "True"
 
 3. Spend hours searching. Flight suits do of course come in women's sizes, but only <a href="http://www.gibson-barnes.com/prod-294932/Fsl-27p-Flight-Suit.html">the real kind</a> (which cost over $200). Delude yourself into thinking a <a href="http://www.alphaindustries.com/mens-nasa/alpha-industries-adult-nasa-astronaut-flight-suit-orange.htm">men's small</a> might fit you. Triumphantly discover an XS on eBay; it turns out to be a typo.
 
-4. Start to get really picky because you've been at this so long. It can't have a <a href="http://www.spacecampstore.com/Royal-Blue-Flightsuit-MECA355AS/">space camp patch</a> on it. In fact, a blue flight suit is not acceptable at all. You definitely need the orange kind. Bright orange.<!--more-->
+4. Start to get really picky the longer this goes on. It can't have a <a href="http://www.spacecampstore.com/Royal-Blue-Flightsuit-MECA355AS/">space camp patch</a> on it. In fact, a blue flight suit is not acceptable at all. You definitely need the orange kind. Bright orange.<!--more-->
 
 5. Finally, come across something that might work:
   <a href="http://www.armynavydeals.com/asp/products_details.asp?SKU=WfltsuitOr&catid=976&ItemName=Orange%20is%20the%20New%20Black%20Costume"><img src="{{ site.baseurl }}/public/img/costume.jpg" class="img-responsive thumbnail"></a>
