@@ -5,7 +5,7 @@ title: "Poetry"
 
 Contact me at [rholmes4@illinois.edu](mailto:rholmes4@illinois.edu) with comments or questions.
 
-##Selected poems:
+## Selected poems:
 * [Love in the time before starships](#love-in-the-time-before-starships)
 * [Kola Superdeep Borehole](#kola-superdeep-borehole)
 * [First fall in Illinois](#first-fall-in-illinois)
