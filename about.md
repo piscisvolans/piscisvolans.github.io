@@ -37,7 +37,7 @@ I have some projects on GitHub as [piscisvolans](https://github.com/piscisvolans
 
 <hr>
 
-###Most recent Ask the Van answer:</h3>
+###Most recent Ask the Van answer:
 
 {{ site.data.askthevan.last.date | date: "%-m/%-d/%y"}}: <a href="{{ site.data.askthevan.last.url }}">{{ site.data.askthevan.last.title }}</a>
 
