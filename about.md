@@ -5,7 +5,7 @@ title: "About"
 
 I'm a graduate student in the [physics department](http://physics.illinois.edu/) at the University of Illinois at Urbana-Champaign, where I do research on quantum optics with [a group of awesome people](http://research.physics.illinois.edu/QI/Photonics/).
 
-After grad school (Ph.D. expected 2016) I want to solve technology and policy problems in space exploration and help put humans on Mars.
+After grad school (Ph.D. expected 2017) I want to solve technology and policy problems in space exploration and help put humans on Mars.
 
 I love writing, science fiction, Americana music, and cats. As a kid I was an Air Force brat, and we lived in Japan, New Mexico, Alabama, Germany, Virginia, Rhode Island, Washington DC, Mississippi, and North Carolina.
 
@@ -24,6 +24,9 @@ I love writing, science fiction, Americana music, and cats. As a kid I was an Ai
 
 		</div>
 		
+	</div>
+	<div class="row row-centered">
+	<div class="caption">My cat and a view in northern New Mexico, two of my favorite things.<br><br></div>
 	</div>
 </div>
 </div>
