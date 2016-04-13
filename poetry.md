@@ -36,11 +36,13 @@ and woke to an unknown language.
 
 The moon was high at midnight
 over the bed where you slept and I loved you—
+
 in the universe of an argument or a kiss
 there is work to do, and the shipyards stand not empty.
 
 I dreamed we lay down on the warm dock
 and turned to wood under the moon. Our time passed, 
+
 but in their language we heard our names.
 Across their sky we saw our branches winding.
 </pre>
@@ -61,9 +63,9 @@ Scientists drilled the hole.
 It ends almost eight miles down in rock hot and plastic. 
  
 When they had learned what they wanted 
-about what was down there, when the drill mouth 
- 
-had chewed copper and granite  
+about what was down there, 
+
+when the drill mouth had chewed copper and granite  
 and choked on mud boiling with hydrogen 
  
 they welded the borehole shut and left it to the taiga. 
@@ -111,11 +113,11 @@ At fourteen in Mississippi
 you didn't make it easy, didn't hide  
 your bad schools and your Jesus billboards, 
  
-your cockroaches and your closed minds, 
-your war flags, revised history, and the way  
+your cockroaches and closed minds, 
+the war flags, revised history, and the way  
 no one even seemed ashamed of it all. 
  
-You didn't make use of my happy childhood  
+It wasn't anything like my happy childhood  
 memories, black-eyed peas and barbecue, 
 Lucinda singing about car wheels on a gravel road  
  
@@ -243,7 +245,7 @@ in pieces between Alabama, Virginia, Germany,
 Rhode Island, Mississippi. The burning piano,  
  
 solemn prank and memorial for some long-dead 
-R. A. F. aviator, repeated here for the unspoken name  
+R.A.F. aviator, repeated here for the unspoken name  
 and for what might happen. The one about  
 the dead lizard in the Philippines. The broken nose. 
  
