@@ -117,7 +117,7 @@ your cockroaches and closed minds,
 the war flags, revised history, and the way  
 no one even seemed ashamed of it all. 
  
-It wasn't anything like my happy childhood  
+You weren't anything like my happy childhood  
 memories, black-eyed peas and barbecue, 
 Lucinda singing about car wheels on a gravel road  
  
