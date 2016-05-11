@@ -37,7 +37,7 @@ Email me at [rholmes4@illinois.edu](mailto:rholmes4@illinois.edu).
 
 I have some projects on GitHub as [piscisvolans](https://github.com/piscisvolans).
 
-#### <a href="{{ site.baseurl }}/public/pdf/webcv_2-16.pdf">Here</a> is my current CV.
+#### <a href="{{ site.baseurl }}/public/pdf/webcv_5-11-16.pdf">Here</a> is my current CV.
 
 <hr>
 
