@@ -7,7 +7,7 @@ I'm a graduate student in the [physics department](http://physics.illinois.edu/)
 
 After grad school (Ph.D. expected 2017) I want to solve technology and policy problems in space exploration and help put humans on Mars.
 
-I love writing, science fiction, Americana music, and cats. As a kid I was an Air Force brat, and we lived in Japan, New Mexico, Alabama, Germany, Virginia, Rhode Island, Washington DC, Mississippi, and North Carolina.
+Outside of work, I love writing, Americana music, science fiction, and cats. As a kid I was an Air Force brat, and we lived in Japan, New Mexico, Alabama, Germany, Virginia, Rhode Island, Washington DC, Mississippi, and North Carolina.
 
 <div class="about">
 <div class="container">
@@ -15,7 +15,7 @@ I love writing, science fiction, Americana music, and cats. As a kid I was an Ai
 	
 		<div class="col-md-6 col-centered">
 
-			<img class="img-responsive" src="{{ site.baseurl }}/public/img/astrid3.jpg">
+			<img class="img-responsive" src="{{ site.baseurl }}/public/img/cats.jpg">
 
 		</div>
 		<div class="col-md-6 col-centered">
@@ -26,7 +26,7 @@ I love writing, science fiction, Americana music, and cats. As a kid I was an Ai
 		
 	</div>
 	<div class="row row-centered">
-	<div class="caption">My cat and a view in northern New Mexico, two of my favorite things.<br><br></div>
+	<div class="caption">Some of my favorite things: my weirdo cats (Niels, top; and Astrid, bottom) and a view in northern New Mexico.<br><br></div>
 	</div>
 </div>
 </div>
