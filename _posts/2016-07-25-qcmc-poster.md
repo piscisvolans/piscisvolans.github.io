@@ -42,6 +42,6 @@ Another option is to import an image of some data and convert it directly to vec
 
 ## Conclusions
 
-I was happy with the poster, but also nervous about presenting it. I want to come across as a knowledgeable senior grad student at conferences, and I was sure that wouldn't be a problem once I started talking, but I was worried this could look a little too "middle school science fair" at first glance. My advisor also wasn't crazy about it at first, and I did take some of his suggestions to add a more detailed diagram of my single-photon source at the top of the poster.
+I was happy with the poster, but also nervous about presenting it. I want to come across as a knowledgeable senior grad student at conferences, and I knew that wouldn't be a problem once I started talking, but I was worried this could look a little too "middle school science fair" at first glance. My advisor also wasn't crazy about it at first, and I did take some of his suggestions to add a more detailed diagram of my single-photon source at the top of the poster.
 
 In the end, the poster session went well and I got a lot of kind words. The session was held in an open-air lobby in the Singapore heat and humidity, and even my advisor remarked that it was so hot he appreciated there not being many words to read. So, at least in a tropical rainforest, I'll call it a success.
