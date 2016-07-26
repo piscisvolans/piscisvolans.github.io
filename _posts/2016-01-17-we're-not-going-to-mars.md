@@ -24,7 +24,7 @@ I say "rational" optimism because there's also a point of view that obviously we
 
 As a rational optimist, your position rests on questions. Is the radiation in space really a problem? You have to read about it. Can NASA really commit to doing this? What if the first mission fails? What if robots really are better? How much will it really cost? Should we spend the money on something else? You have to investigate all these things and weigh them in your mind, and no matter what, your "I think we can probably do it" can always be dismissed with a confident "it can't be done."
 
-Cynicism is the teenager of intellectual positions. I felt so smart as a teenager when I realized that sometimes people do things only for politics, or pride, or oil, or money.
+Cynicism is the teenager of intellectual positions. I felt like such a smartypants as a teenager when I realized that sometimes people do things only for politics, or pride, or oil, or money.
 
 Yes, people do things for these reasons. We do things for our pride, or because they feel good, or seem important, or distract us, or fill us with the thunder of a rocket launch, or bring tears with grainy broadcasts from the moon.
 
