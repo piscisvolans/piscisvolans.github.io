@@ -40,7 +40,7 @@ over the bed where you slept and I loved you—
 in the universe of an argument or a kiss
 there is work to do, and the shipyards stand not empty.
 
-I dreamed we lay down on the still-warm dock
+I dreamed we lay down on the warm dock
 and turned to wood under the moon. Our time passed, 
 
 but in their language we heard our names.
