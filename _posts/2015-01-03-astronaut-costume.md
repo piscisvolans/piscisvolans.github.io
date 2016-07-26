@@ -35,7 +35,7 @@ Good luck!
 
 I didn't become obsessed with making an astronaut costume just to look cool at a Halloween party&#151;I did it because I really wanted this costume to exist. If you want to dress up as a sexy astronaut, that's fine. I know commercial costumes exist because people buy them, and maybe there isn't much demand for women's sizes. But it made me sad to think of a teenage girl doing a similar search and finding that a NASA minidress is the only option in her size. I hope she at least also knows that half of NASA's 2013 <a href="http://www.nasa.gov/astronauts/2013astroclass.html#.VKi_PCvF98E">astronaut candidates</a> are women.
 
-##Notes on authenticity
+## Notes on authenticity
 Throughout this process, but especially when I was looking for patches, I relied on the research of awesome folks who care a lot about authentic costumes (they would probably call them replicas). These hobbyists are a great resource for information about stuff like <a href="http://www.collectspace.com/ubb/Forum18/HTML/000627.html">what color</a> the border on your US flag patch should be.
 
 My time and money were limited, so my costume isn't totally authentic.
