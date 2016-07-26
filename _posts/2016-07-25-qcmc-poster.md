@@ -4,7 +4,7 @@ title: "Poster for QCMC: Can you see a single photon?"
 comments: "True"
 ---
 
-I made this poster for the <a href="https://qcmc.quantumlah.org/">2016 QCMC meeting</a> in Singapore earlier this month. It summarizes my research using quantum states of light to study the human visual system, and focuses on a study we did to learn about how the eye adds up signals from multiple photons. Click the image to see the full version.
+I made this poster for the <a href="https://qcmc.quantumlah.org/">2016 QCMC meeting</a> in Singapore earlier this month. It summarizes our research using quantum states of light to study the human visual system, and focuses on a study we did to learn about how the eye adds up signals from multiple photons. Click the image to see the full version.
 
 <center><div class="thumbnail"><a href="{{ site.baseurl }}/public/pdf/qcmc2016.pdf"><img src="{{ site.baseurl }}/public/img/qcmc.png" class="thumbnail"></a>
 </div>
