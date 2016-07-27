@@ -17,18 +17,18 @@ As a kid I was an Air Force brat, and we lived in Japan, New Mexico, Alabama, Ge
 	
 		<div class="col-md-6 col-centered">
 
-			<img class="img-responsive" src="{{ site.baseurl }}/public/img/cats.jpg">
+			<img class="img-responsive" src="{{ site.baseurl }}/public/img/astrid3.jpg">
 
 		</div>
 		<div class="col-md-6 col-centered">
 
-			<img class="img-responsive" src="{{ site.baseurl }}/public/img/me.jpg">
+			<img class="img-responsive" src="{{ site.baseurl }}/public/img/niels.jpg">
 
 		</div>
 		
 	</div>
 	<div class="row row-centered">
-	<div class="caption">Some of my favorite things: my weirdo cats (Niels, top; and Astrid, bottom) and a view in northern New Mexico.<br><br></div>
+	<div class="caption">Astrid (left) and Niels (right).<br><br></div>
 	</div>
 </div>
 </div>
