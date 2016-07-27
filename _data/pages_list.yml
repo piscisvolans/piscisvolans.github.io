@@ -1,7 +1,5 @@
 - name: "Home"
   url: "/"
-- name: "Poetry"
-  url: "/poetry"
 - name: "About"
   url: "/about" 
 - name: "Archive"

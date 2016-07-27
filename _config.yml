@@ -8,7 +8,7 @@ permalink:        pretty
 
 # Setup
 title:            Rebecca Holmes
-name:			  Rebecca Holmes' Blog
+name:			  Rebecca Holmes's Blog
 tagline:          "Rebecca Holmes"
 url:              http://rebeccaholmes.net
 description:	  Science, writing, and other stuff.
@@ -25,6 +25,5 @@ github:
   repo:           https://github.com/piscisvolans/piscisvolans.github.io
 pages_list:       
   About: '/about'
-  Poetry: '/poetry'
   Archive: '/archive'
   Feed: '/rss.xml'
