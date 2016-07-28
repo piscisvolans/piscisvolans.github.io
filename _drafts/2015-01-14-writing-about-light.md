@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Writing about light"
+title: "Quick reference: Writing about light"
 comments: "True"
 more: "True"
 ---

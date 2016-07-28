@@ -2,6 +2,7 @@
 layout: post
 title: "We're (not) going to Mars"
 comments: "True"
+more: "True"
 ---
 
 There's a cynical attitude about a manned Mars mission that some people love to whip out. "We're not going to Mars," they'll say. "It's impossible. And stupid."
@@ -12,7 +13,7 @@ There's a cynical attitude about a manned Mars mission that some people love to 
 
 "Even if we could send people to Mars, it would be absurdly expensive compared to robots that could do the same thing. And humans will bring bacteria that will contaminate Mars and ruin our chance to know whether there's life there or not. The only reason to send people is our pride."
 
-"Also, everyone will go nuts in space on the way there. Do you know how long it takes to get to Mars? People will go insane, they just can't take it. There have been experiments. Send robots."
+"Also, everyone will go nuts in space on the way there. Do you know how long it takes to get to Mars? People will go insane, they just can't take it. There have been experiments. Send robots." <!--more-->
 
 And so, the cynic appears both informed and intelligent. They know how the world really works. They can write [New York Times editorials](http://www.nytimes.com/2015/09/21/opinion/lets-not-move-to-mars.html). They won't be fooled by ridiculous emotional reasons to send people to Mars, because they're too smart for stupid flags and worthless footprints.
 

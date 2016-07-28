@@ -2,6 +2,7 @@
 layout: post
 title: "Poster for QCMC: Can you see a single photon?"
 comments: "True"
+more: "True"
 ---
 
 I made this poster for the <a href="https://qcmc.quantumlah.org/">2016 QCMC meeting</a> in Singapore earlier this month. It summarizes our research using quantum states of light to study the human visual system, and focuses on a study we did to learn about how the eye adds up signals from multiple photons. Click the image to see the full version.
@@ -10,7 +11,8 @@ I made this poster for the <a href="https://qcmc.quantumlah.org/">2016 QCMC meet
 </div>
 </center>
 
-I wanted to try something different from <a href="{{ site.baseurl }}/public/pdf/cqoqim2013.pdf">the last poster I made</a>, using no full sentences and focusing on data and diagrams that would be difficult to describe in words. I don't have much of an attention span for reading posters and I doubt most people do either... and what's the point when the researcher is standing right there? 
+I wanted to try something different from <a href="{{ site.baseurl }}/public/pdf/cqoqim2013.pdf">the last poster I made</a>, using no full sentences and focusing on data and diagrams that would be difficult to describe in words. I don't have much of an attention span for reading posters and I doubt most people do either... and what's the point when the researcher is standing right there? <!--more-->
+
 
 ## Inspiration
 

@@ -2,11 +2,12 @@
 layout: post
 title: "SEA legislative blitz and bipartisanship in space"
 comments: "True"
+more: "True"
 ---
 
 Last month I went to D.C. to participate in the [Space Exploration Alliance annual "legislative blitz."](http://www.spaceexplorationalliance.org/) The Space Exploration Alliance is a coalition of about ten of the major space advocacy organizations, including the [Planetary Society](http://www.planetary.org/), the [National Space Society](http://www.nss.org/), the [Mars Society](http://www.marssociety.org/), [AIAA](http://www.aiaa.org/) and the [National Society of Black Engineers](http://www.nsbe.org/). Volunteers from these groups gather in Washington every February (when Congress is deciding what to do with the President's budget request) to meet with lawmakers and push some talking points about the NASA budget. (Summary: Please increase the NASA budget.)
 
-I had never done anything like this before, but my parents live near the Capitol in D.C. and I wanted to visit them anyway. I got the sign-up link in a Mars Society email, found some cheap tickets from Indianapolis, and decided to go for it. 
+I had never done anything like this before, but my parents live near the Capitol in D.C. and I wanted to visit them anyway. I got the sign-up link in a Mars Society email, found some cheap tickets from Indianapolis, and decided to go for it. <!--more-->
 
 I learned a lot in two days of meetings with congressional staffers. First, it wasn't nearly as scary as I thought it might be. (Even when I ended up going to one meeting by myself, which was not really supposed to happen.) Congressional staffers are good listeners; it's part of the job. Giving a quick pitch about something I care about turned out to be easy and even fun. 
 

@@ -6,7 +6,7 @@ more: "True"
 ---
 >"The enthalpy of hydrogen bond formation between the nucleoside bases 2'deoxyguanosine (dG) and 2'deoxycytidine (dC) has been determined by direct measurement. dG and dC were derivatized at the 5' and 3' hydroxyls with triisopropylsilyl groups to obtain solubility of the nucleosides in non-aqueous solvents and to prevent the ribose hydroxyls from forming hydrogen bonds. From isoperibolic titration measurements, the enthalpy of dC:dG base pair formation is -6.65±0.32 kcal/mol."
 
-Do you have any idea what's going on in the paragraph above? Unless you're a chemist, there are probably a lot of unfamiliar words&mdash;but that's not the only problem.
+Do you have any idea what's going on in the paragraph above? Unless you're a chemist, there are probably a lot of unfamiliar words&mdash;but that's not the only problem. <!--more-->
 
 [The Science of Scientific Writing](http://www.americanscientist.org/issues/pub/the-science-of-scientific-writing/) is one of the best articles I've read about the trouble with scientific writing and how to fix it. It was first published in 1990, but things haven't changed. From the introduction:
 
@@ -18,7 +18,6 @@ These are pretty radical ideas. The topic of good writing often provokes only ap
 2. Clear writing is not some magical art form that technical people can't grasp.
 3. Writing more clearly can actually make you a *better scientist*.
 
-<!--more-->
 <div id="more"></div>
 
 Authors George Gopen and Judith Swan go on to explain that readers expect to see certain information in certain locations in a sentence or paragraph. Writing is easy to follow when these expectations are met, and more difficult when these expectations are frustrated. If the writer is familiar with the reader's expectations, it's possible to construct friendly sentences about difficult concepts.

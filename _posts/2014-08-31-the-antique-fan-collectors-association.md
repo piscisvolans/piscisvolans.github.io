@@ -2,13 +2,14 @@
 layout: post
 title: "Everything is interesting"
 comments: "True"
+more: "True"
 ---
 
 I recently visited the website of the [Antique Fan Collectors Association](http://www.fancollectors.org/). This happened after a conversation with a very helpful individual who, when asked for blog post topic suggestions, replied, "fans." He admitted that he happened to be staring up at a ceiling fan, but still insisted that fans are probably really interesting.
 
 After reading the [Wikipedia article about mechanical fans](http://en.wikipedia.org/wiki/Mechanical_fan), I was at least convinced that there's plenty to say about them. There are many different types of fans, from the familiar axial-flow fan (ceiling fans, table fans, and most automobile and computer cooling fans) to the "squirrel cage" fan used in leaf blowers and bouncy castles. The coolest way to move air is definitely with an [electrostatic fluid accelerator](http://en.wikipedia.org/wiki/Electrostatic_fluid_accelerator), which has no moving parts and uses an electric field to propel ionized air molecules.
 
-But I still wasn't that interested.
+But I still wasn't that interested. <!--more-->
 
 Almost anything is really interesting to someone, so I looked for people who like fans&mdash;maybe they could tell me why I should care. I found the [Antique Fan Collectors Association](http://www.fancollectors.org/), which has "over 500 members with a wide variety of backgrounds." The AFCA has an active [forum](http://www.afcaforum.com/) (where members discuss antique fan restoration techniques, the [100th anniversary of the bowl heater](http://www.afcaforum.com/forum1/34237.html), and [other things](http://www.afcaforum.com/view_post.php?post_id=277514)) and, of course, an annual convention called the Fan Fair.
 

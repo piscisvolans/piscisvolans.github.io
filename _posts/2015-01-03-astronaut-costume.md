@@ -11,9 +11,9 @@ In 10 steps:
 
 2. Change your search to <a href="https://www.google.com/search?q=female+astronaut+costume&safe=off&source=lnms&tbm=isch&sa=X&ei=vmOoVKfFMoysyASs54KoAw&ved=0CAkQ_AUoAg&biw=1920&bih=955#facrc=_&imgdii=_&imgrc=VdZAIEz-Ldx11M%253A%3BtmrP9v-Hl8cQ3M%3Bhttp%253A%252F%252Fwww.themarysue.com%252Fwp-content%252Fuploads%252F2013%252F10%252Fminihadfield1.jpg%3Bhttp%253A%252F%252Fwww.themarysue.com%252Fmini-chris-hadfield%252F%3B600%3B840">*female astronaut costume*</a>. Become very sad.
 
-3. Spend hours searching. Flight suits do of course come in women's sizes, but only <a href="http://www.gibson-barnes.com/prod-294932/Fsl-27p-Flight-Suit.html">the real kind</a> (which cost over $200). Delude yourself into thinking a <a href="http://www.alphaindustries.com/mens-nasa/alpha-industries-adult-nasa-astronaut-flight-suit-orange.htm">men's small</a> might fit you. Triumphantly discover an XS on eBay; it turns out to be a typo.
+3. Spend hours searching. Flight suits do of course come in women's sizes, but only <a href="http://www.gibson-barnes.com/prod-294932/Fsl-27p-Flight-Suit.html">the real kind</a> (which cost over $200). Delude yourself into thinking a <a href="http://www.alphaindustries.com/mens-nasa/alpha-industries-adult-nasa-astronaut-flight-suit-orange.htm">men's small</a> might fit you. Triumphantly discover an XS on eBay; it turns out to be a typo.<!--more-->
 
-4. Start to get really picky the longer this goes on. It can't have a <a href="http://www.spacecampstore.com/Royal-Blue-Flightsuit-MECA355AS/">space camp patch</a> on it. In fact, a blue flight suit is not acceptable at all. You definitely need the orange kind. Bright orange.<!--more-->
+4. Start to get really picky the longer this goes on. It can't have a <a href="http://www.spacecampstore.com/Royal-Blue-Flightsuit-MECA355AS/">space camp patch</a> on it. In fact, a blue flight suit is not acceptable at all. You definitely need the orange kind. Bright orange.
 
 5. Finally, come across something that might work:
   <a href="http://www.armynavydeals.com/asp/products_details.asp?SKU=WfltsuitOr&catid=976&ItemName=Orange%20is%20the%20New%20Black%20Costume"><img src="{{ site.baseurl }}/public/img/costume.jpg" class="img-responsive thumbnail"></a>
