@@ -251,13 +251,13 @@ the dead lizard in the Philippines. The broken nose.
  
 The war stories, the sand, the contractors  
 on the farm where he grew up, building a silo,  
-who didn't want advice, college boy. Always 
-the catfish meunière on the first night home 
+who didn't want advice, college boy. 
+Always the catfish meunière on the first night home 
  
-from the desert. He said the soft-serve in the cafeteria 
-wasn't bad at all. When I was a baby in Japan,  
+from the desert. (He said the soft-serve in the DFAC 
+wasn't bad at all.) When I was a baby in Japan,  
 my feet never touched the ground until the box 
-of Tennessee dirt from my grandmother arrived, 
+of Tennessee dirt from my Nanu arrived, 
  
 until the proper ceremony, the flag, all the men 
 in dress blues filling the little house. Never 
