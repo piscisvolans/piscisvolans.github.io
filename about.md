@@ -7,14 +7,13 @@ I'm a graduate student in the [physics department](http://physics.illinois.edu/)
 
 After grad school (Ph.D. coming May 2017) I want to solve technology and policy problems in space exploration and help put humans on Mars.
 
-In the rest of my life, I like hiking, cats, listening to and singing Americana music, planning for the apocalypse, and smashing the patriarchy. I also [write poetry]({{ site.baseurl }}/poetry/).
+In the rest of my life, I like listening to and singing Americana music, hiking, cats, planning for the apocalypse, and smashing the patriarchy. I also [write poetry]({{ site.baseurl }}/poetry/).
 
 I grew up in an Air Force family and lived in Japan, New Mexico, Alabama, Germany, Virginia, Rhode Island, Washington DC, Mississippi, and North Carolina before coming to Illinois. North Carolina narrowly wins the award for longest residency (unless I stay in grad school any longer).
 
 
 <center>
 <img class="img-responsive" width="75%" src="{{ site.baseurl }}/public/img/astrid-and-niels.jpg">
-
 <p>
 <br>
 Astrid (left) and Niels (right).
