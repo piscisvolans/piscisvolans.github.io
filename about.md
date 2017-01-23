@@ -3,35 +3,25 @@ layout: page
 title: "About"
 ---
 
-I'm a graduate student in the [physics department](http://physics.illinois.edu/) at the University of Illinois at Urbana-Champaign, where I do research on quantum optics with [a group of awesome people](http://research.physics.illinois.edu/QI/Photonics/).
+I'm a graduate student in the [physics department](http://physics.illinois.edu/) at the University of Illinois at Urbana-Champaign, where I do research on quantum optics with [a group of amazing people](http://research.physics.illinois.edu/QI/Photonics/).
 
-After grad school (Ph.D. expected 2017) I want to solve technology and policy problems in space exploration and help put humans on Mars.
+After grad school (Ph.D. coming May 2017) I want to solve technology and policy problems in space exploration and help put humans on Mars.
 
-Outside of work, I enjoy Americana music, hiking and camping, science fiction, and trying to outsmart my cats. I also [write poetry]({{ site.baseurl }}/poetry/).
+In the rest of my life, I like hiking, cats, listening to and singing Americana music, planning for the apocalypse, and smashing the patriarchy. I also [write poetry]({{ site.baseurl }}/poetry/).
 
-As a kid I was an Air Force brat, and we lived in Japan, New Mexico, Alabama, Germany, Virginia, Rhode Island, Washington DC, Mississippi, and North Carolina.
+I grew up in an Air Force family and lived in Japan, New Mexico, Alabama, Germany, Virginia, Rhode Island, Washington DC, Mississippi, and North Carolina before coming to Illinois. North Carolina narrowly wins the award for longest residency (unless I stay in grad school any longer).
 
-<div class="about">
-<div class="container">
-	<div class="row row-centered">
-	
-		<div class="col-md-6 col-centered">
 
-			<img class="img-responsive" src="{{ site.baseurl }}/public/img/astrid3.jpg">
+<center>
+<img class="img-responsive" width="75%" src="{{ site.baseurl }}/public/img/astrid-and-niels.jpg">
 
-		</div>
-		<div class="col-md-6 col-centered">
+<p>
+<br>
+Astrid (left) and Niels (right).
+</p>
+<br>
+</center>
 
-			<img class="img-responsive" src="{{ site.baseurl }}/public/img/niels.jpg">
-
-		</div>
-		
-	</div>
-	<div class="row row-centered">
-	<div class="caption">Astrid (left) and Niels (right).<br><br></div>
-	</div>
-</div>
-</div>
 
 You can follow me on Twitter at [@rebeccaholmes](https://twitter.com/rebeccaholmes).
 
