@@ -25,5 +25,6 @@ github:
   repo:           https://github.com/piscisvolans/piscisvolans.github.io
 pages_list:       
   About: '/about'
+  Poetry: '/poetry'
   Archive: '/archive'
   Feed: '/rss.xml'
