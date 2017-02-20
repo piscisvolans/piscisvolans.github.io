@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Poster for QCMC: Can you see a single photon?"
+title: "Poster for QCMC"
 comments: "True"
 more: "True"
 ---
