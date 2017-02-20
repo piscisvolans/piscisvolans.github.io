@@ -75,12 +75,12 @@ h1 {
 h2 {
   margin-top: 1rem;
   margin-bottom: 1rem;
-  font-size: 1.5rem;
+  font-size: 1.25rem;
 }
 h3 {
   margin-top: 1rem;
   margin-bottom: 1rem;
-  font-size: 1.25rem;
+  font-size: 1rem;
 }
 h4, h5, h6 {
   margin-top: 1rem;
@@ -345,9 +345,9 @@ tbody tr:nth-child(odd) th {
 }
 
 .masthead-title .pull-right {
-  line-height:95px;
-  font-size:22px;
-/*   text-transform: uppercase; */
+  line-height:90px;
+  font-family: $sans-font-stack;
+  text-transform: uppercase;
 }
 
 @media (max-width: 768px) {
@@ -377,12 +377,13 @@ tbody tr:nth-child(odd) th {
 
 .masthead-title a {
   color: $darker-headings-color;
+  text-decoration:none;
   padding-bottom:7px;
 }
 
 .masthead-title a:hover {
   text-decoration:none;
-  border-bottom: 3px solid $darker-headings-color;
+  border-bottom: 2px solid $darker-headings-color;
 }
 
 .masthead-title small {
@@ -393,7 +394,8 @@ tbody tr:nth-child(odd) th {
 }
 
 .masthead-title .active {
-  border-bottom: 3px solid $darker-headings-color;
+  text-decoration:none;
+  border-bottom: 2px solid $darker-headings-color;
 }
 
 
