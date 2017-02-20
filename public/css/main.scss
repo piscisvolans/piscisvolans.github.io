@@ -9,12 +9,12 @@ $primary-color: #b02a5d;
 $link-color: #2A5DB0;
 $active-link: darken($link-color, 20%);
 $body-color: #333;
-$headings-color: #6a6a6a;
+$headings-color: $body-color;
 $lighter-headings-color: #999;
 $darker-headings-color: #444;
 $sans-font-stack: "Lato", sans-serif;
-$serif-font-stack: "Sansita", serif;
-$site-title-font-stack: "Sansita", serif;
+$serif-font-stack: "Lora", serif;
+$site-title-font-stack: "Lora", serif;
 
 
 /*
@@ -66,11 +66,10 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
   font-family: $serif-font-stack;
   line-height: 1.25;
-  font-weight:normal;
   color: $headings-color;
 }
 h1 {
-  font-size: 1.9rem;
+  font-size: 1.8rem;
 }
 h2 {
   margin-top: 1rem;
@@ -329,10 +328,10 @@ tbody tr:nth-child(odd) th {
 .site-title {
   float:left;
   font-family: $site-title-font-stack;
-  font-size:1.9rem;
-  font-weight:normal;
+  font-size:2rem;
+  font-weight:bold;
   margin-top:1rem;
-  text-transform: none;
+  text-transform: uppercase;
 }
 
 .site-tagline {
@@ -345,7 +344,7 @@ tbody tr:nth-child(odd) th {
 }
 
 .masthead-title .pull-right {
-  line-height:90px;
+  line-height:80px;
   font-family: $sans-font-stack;
   text-transform: uppercase;
 }
@@ -571,7 +570,7 @@ a.pagination-item:hover {
  
 .back-to-top i {
   font-size: 60px;
-  color: $primary-color;
+  color: $body-color;
 }
 
 
