@@ -6,7 +6,6 @@ title: "Poetry"
 Contact me at [rholmes4@illinois.edu](mailto:rholmes4@illinois.edu) with comments or questions.
 
 ## Selected poems:
-* [Love in the time before starships](#love-in-the-time-before-starships)
 * [Kola Superdeep Borehole](#kola-superdeep-borehole)
 * [First fall in Illinois](#first-fall-in-illinois)
 * [South](#south)
@@ -19,34 +18,6 @@ Contact me at [rholmes4@illinois.edu](mailto:rholmes4@illinois.edu) with comment
 <hr>
 <br>
 <br>
-
-<h2 id="love-in-the-time-before-starships">Love in the time before starships</h2>
-<pre class="poem">
-They laid out the pieces of our dream:
-each fragment on a warehouse grid,
-
-photographed for the committee
-to determine the cause of the explosion
-
-that left our harbors waiting for other ships.
-I dreamed about flying over empty launchpads
-
-all night in a stolen plane
-and woke to an unknown language.
-
-The moon was high at midnight
-over the bed where you slept and I loved you—
-
-in the universe of an argument or a kiss
-there is work to do, and the shipyards stand not empty.
-
-I dreamed we lay down on the warm dock
-and turned to wood under the moon. Our time passed, 
-
-but in their language we heard our names.
-Across their sky we saw our branches winding.
-</pre>
-<p class="date">April 2015</p>
 
 <h2 id="kola-superdeep-borehole">Kola Superdeep Borehole</h2>
 <pre class="poem">
