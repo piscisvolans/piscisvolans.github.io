@@ -3,13 +3,13 @@ layout: page
 title: "About"
 ---
 
-I'm a graduate student in the [physics department](http://physics.illinois.edu/) at the University of Illinois at Urbana-Champaign, where I do research on quantum optics with [a group of amazing people](http://research.physics.illinois.edu/QI/Photonics/).
+I'm a scientist/cat lady in beautiful Los Alamos, New Mexico, where I work as a postdoc at Los Alamos National Laboratory.
 
-After grad school (Ph.D. coming May 2017) I want to solve technology and policy problems in space exploration and help put humans on Mars.
+I went to graduate school in the [physics department](http://physics.illinois.edu/) at the University of Illinois at Urbana-Champaign, where I did research in quantum optics with [a great group of people](http://research.physics.illinois.edu/QI/Photonics/).
 
-In the rest of my life, I like listening to and singing Americana music, hiking, cats, planning for the apocalypse, and smashing the patriarchy. I also [write poetry]({{ site.baseurl }}/poetry/).
+In the rest of my life, I like Americana music, cooking, poetry, science fiction, planning for the apocalypse, and smashing the patriarchy.
 
-I grew up in an Air Force family and lived in Japan, New Mexico, Alabama, Germany, Virginia, Rhode Island, Washington DC, Mississippi, and North Carolina before coming to Illinois. North Carolina narrowly wins the award for longest residency (unless I stay in grad school any longer).
+I grew up in an Air Force family and lived in Japan, New Mexico, Alabama, Germany, Virginia, Rhode Island, Washington DC, Mississippi, and North Carolina before graduating from high school.
 
 
 <center>
@@ -24,15 +24,13 @@ Astrid (left) and Niels (right).
 
 You can follow me on Twitter at [@rebeccaholmes](https://twitter.com/rebeccaholmes).
 
-Email me at [rholmes4@illinois.edu](mailto:rholmes4@illinois.edu).
-
 I have some projects on GitHub as [piscisvolans](https://github.com/piscisvolans).
 
 #### Here is <a href="{{ site.baseurl }}/public/pdf/rebecca-holmes-web-resume.pdf">my current CV/resume</a>.
 
 <hr>
 
-I help answer science questions on the physics department's [Ask the Van](http://van.physics.illinois.edu/qa/) Q&A website.
+As a grad student I helped answer science questions on the Physics Illinois [Ask the Van](http://van.physics.illinois.edu/qa/) Q&A website.
 
 ### Most recent Ask the Van answer:
 

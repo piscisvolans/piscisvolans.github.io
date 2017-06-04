@@ -2,11 +2,9 @@
 layout: page
 title: "Ask the Van"
 ---
-<p><a href="http://van.physics.illinois.edu/qa/">Ask the Van</a> is the public Q&A service of the <a href="http://physics.illinois.edu">Department of Physics</a> at the University of Illinois. Anyone can submit a question, and physics professors and student volunteers answer as many as possible. (It's called Ask the Van because of the <a href="http://van.physics.illinois.edu/index.php">Physics Van</a>, a traveling science demo program also run by the physics department.)</p>
+<p><a href="http://van.physics.illinois.edu/qa/">Ask the Van</a> is the public Q&A service of the <a href="http://physics.illinois.edu">Department of Physics</a> at the University of Illinois (where I went to grad school). Anyone can submit a question, and physics professors and student volunteers answer as many as possible.
 
-<p>I keep track of the questions I've answered, but check out the main site for lots of other great topics that I don't know enough about...</p>
-
-<h2>Questions I've answered</h2>
+<h2>Questions I answered</h2>
 
 {% for entry in site.data.askthevan reversed %}
 		<li>{{ entry.date | date: "%-m/%-d/%y"}}: <a href="{{ entry.url }}">{{ entry.title }}</a></li>
