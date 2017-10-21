@@ -3,9 +3,8 @@ layout: page
 title: "Poetry"
 ---
 
-Contact me at [rholmes4@illinois.edu](mailto:rholmes4@illinois.edu) with comments or questions.
+Poems on all the major topics: cats, dreams, and the end of the world.
 
-## Selected poems:
 * [Kola Superdeep Borehole](#kola-superdeep-borehole)
 * [First fall in Illinois](#first-fall-in-illinois)
 * [South](#south)
