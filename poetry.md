@@ -199,7 +199,7 @@ no swords in stones.
 
 <h2 id="the-fighter-pilot">The fighter pilot</h2>
 <pre class="poem">
-The throttle, the pressure suit, the callsign, 
+The throttle, the g-suit, the callsign, 
 the rubber sleeves, the formation. The story  
 about being hit by lightning. The squadron on a Saturday 
 but at least take the kids: there are rows of fake switches  
