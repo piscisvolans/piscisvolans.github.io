@@ -241,7 +241,7 @@ in formation. And at bedtime the trundle bed
  
 was a runway: procedure was observed, the tower notified,   
 landing gear extended, instruments checked, and I had to  
-*call the ball, Rebecca*. It was better than any cinema dogfight.  
+<i>call the ball, Rebecca</i>. It was better than any cinema dogfight.  
 We never needed enemies or flames.
 </pre>
 <p class="date">October 2010</p>
