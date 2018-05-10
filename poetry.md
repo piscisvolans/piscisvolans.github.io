@@ -22,37 +22,37 @@ Poems on all the major topics: cats, dreams, and the end of the world.
 <pre class="poem">
 No roadside attraction invites me 
 to See the World's Deepest Hole 
- 
+
 but I stop here in dreams, on imagined, 
 world's-end roadtrips. I turn off my car, 
- 
+
 zip up my parka, crunch snow and glass 
 in the overgrown parking lot. 
- 
-Scientists drilled the hole.  
-It ends almost eight miles down in rock hot and plastic. 
- 
-When they had learned what they wanted 
-about what was down there, 
+
+Scientists drilled the hole.
+It ends almost eight miles down in rock hot and plastic.
+
+When they had learned what they wanted
+about what was down there,
 
 when the drill mouth had chewed copper and granite  
-and choked on mud boiling with hydrogen 
- 
+and choked on mud "boiling with hydrogen"
+
 they welded the borehole shut and left it to the taiga. 
 Some walls are gone, the laboratories looted, 
- 
+
 but the cinderblock and rebar are pushed clear 
 of the hand-width hole. I kick the rusted plug 
- 
+
 with quilted boot, sensing the organ pipe voice  
 of the space below. I know I'm safe 
- 
+
 from that depth—nothing on earth is bottomless,  
 nowhere will I fall forever— 
- 
+
 still, some things are lost; they aren't buried 
 where people look, where their shovels dig. 
- 
+
 I don't linger. I hear again the call of far places  
 where I will step unrecognized through undivided rooms.
 </pre>
@@ -84,7 +84,7 @@ you didn't make it easy, didn't hide
 your bad schools and your Jesus billboards, 
  
 your cockroaches and closed minds, 
-the war flags, revised history, and the way  
+or the war flags, revised history, and the way  
 no one even seemed ashamed of it all. 
  
 You weren't anything like my happy childhood  
@@ -95,12 +95,12 @@ on the stereo, our road trip anthem
 on the way to grandparents  
 and dairy cows in Tennessee: 
  
-the origin we swung around when the Air Force gave orders  
+that origin we swung around when the Air Force gave orders  
 to Germany or Japan, Knoxville  
 with the farm cats and fireflies. 
  
 Now some nights in Illinois 
-I bake biscuits and research by screen-glow, 
+I make biscuits, and research by screen-glow: 
 family trees and genes, 
  
 could tell you my haplogroup, 
