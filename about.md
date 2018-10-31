@@ -3,22 +3,13 @@ layout: page
 title: "About"
 ---
 
-I'm a scientist/cat-lady in Los Alamos, New Mexico, where I work as a postdoc at Los Alamos National Laboratory.
+I'm a scientist in Los Alamos, New Mexico, where I work as a postdoc at Los Alamos National Laboratory.
 
 I went to [graduate school](http://research.physics.illinois.edu/QI/Photonics/) at the University of Illinois, and college at the University of North Carolina.
 
 In the rest of my life, I like Americana music, cooking, poetry, science fiction, and planning for the apocalypse.
 
 I grew up in an Air Force family and lived in Japan, New Mexico, Alabama, Germany, Virginia, Rhode Island, Washington DC, Mississippi, and North Carolina before graduating from high school.
-
-<center>
-<img class="img-responsive" width="50%" src="{{ site.baseurl }}/public/img/cats2.jpg">
-<p>
-<br>
-Astrid (back) and Niels (front).
-</p>
-<br>
-</center>
 
 You can follow me on Twitter at [@rebeccaholmes](https://twitter.com/rebeccaholmes).
 
