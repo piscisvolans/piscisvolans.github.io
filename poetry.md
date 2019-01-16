@@ -14,6 +14,7 @@ Poems on all the major topics: cats, dreams, and the end of the world.
 * [Los Alamos, 2010](#los-alamos-2010)
 * [Living fossils](#living-fossils)
 * [Leaving Holland](#leaving-holland)
+* [Myths about the northern lights](#northern-lights)
 <hr>
 <br>
 <br>
@@ -343,3 +344,31 @@ that long dark cloud on the horizon
 and spill like mercury into the fields.
 </pre>
 <p class="date">January 2010</p>
+
+<h2 id="northern-lights">Myths about the northern lights</h2>
+<pre class="poem">
+Your pale streamers don’t come from God  
+or dead ancestors or fire foxes 
+or even from the North pole. 
+I read these things to avoid disappointment. 
+ 
+Photographs show deep pink, but this color is imagined
+by exposures impossible for the human eye.  
+I saw only green bands, needles,  
+curls, and endless columns. 
+I didn’t hear you whispering, 
+or meet you in the woods 
+along the Chena Hot Springs Road. 
+ 
+Sometimes now I look at your postcard photographs— 
+multiple exposures, digitally enhanced—and squint,  
+ignoring the pink to remember that anemic green 
+of science and experience. 
+ 
+And sometimes now (when I need you)  
+I am wild with superstition. 
+I remember your electric form,  
+I feel your slow stimulus, I look  
+for your tracks in the snow. 
+</pre>
+<p class="date">September 2009</p>
