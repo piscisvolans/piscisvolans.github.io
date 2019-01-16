@@ -3,7 +3,7 @@ layout: page
 title: "About"
 ---
 
-I'm a scientist in Los Alamos, New Mexico, where I work as a postdoc at Los Alamos National Laboratory.
+I'm a physicist in Los Alamos, New Mexico, where I work as a postdoc at Los Alamos National Laboratory.
 
 I went to [graduate school](http://research.physics.illinois.edu/QI/Photonics/) at the University of Illinois, and college at the University of North Carolina.
 
