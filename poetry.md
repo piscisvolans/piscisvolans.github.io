@@ -6,10 +6,10 @@ title: "Poetry"
 Poems on all the major topics: cats, dreams, and the end of the world.
 
 * [Kola Superdeep Borehole](#kola-superdeep-borehole)
-* [Exchange student](#exchange-student)
 * [South](#south)
 * [Cat](#cat)
 * [On the way to Mars](#on-the-way-to-mars)
+* [Exchange student](#exchange-student)
 * [The fighter pilot](#the-fighter-pilot)
 * [Los Alamos, 2010](#los-alamos-2010)
 * [Living fossils](#living-fossils)
@@ -58,30 +58,6 @@ I don't linger. I hear again the call of far places
 where I will step unrecognized through undivided rooms.
 </pre>
 <p class="date">August 2013</p>
-
-<h2 id="exchange-student">Exchange student</h2>
-<pre class="poem">
-In the last two weeks after I left the rented room
-and came to stay with a classmate’s family, it was
-the icy inherited house, the high ceiling,
-the apples drying over the stove that cured me, 
-the mince pies. It was the kindness, it was— 
-it was sleeping the whole night warm like a little sister 
-on a mattress on the floor, the cold scuttle to the shower,  
-the steam flooding from a plate of eggs  
-and potatoes, carols on the radio, dry toast  
-with butter and jam. It was the antidote 
-to a frozen grocery store aisle where I stood 
-between the American-style chocolate chip cookies 
-and bags of Christmas candy, to walking  
-back to the room alone past all the bridges  
-over the Liffey—each early DART ride to school 
-together was a piece of it, as we ran between the 
-cars to the front of the train while snow fell over the bay, 
-slipped the turnstiles at Pearse Street Station, 
-ran until the flakes melted in the waves.
-</pre>
-<p class="date">November 2010</p>
 
 <h2 id="south">South</h2>
 <pre class="poem">
@@ -202,6 +178,30 @@ underground,
 no swords in stones.
 </pre>
 <p class="date">December 2010</p>
+
+<h2 id="exchange-student">Exchange student</h2>
+<pre class="poem">
+In the last two weeks after I left the rented room
+and came to stay with a classmate’s family, it was
+the icy inherited house, the high ceiling,
+the apples drying over the stove that cured me, 
+the mince pies. It was the kindness, it was— 
+it was sleeping the whole night warm like a little sister 
+on a mattress on the floor, the cold scuttle to the shower,  
+the steam flooding from a plate of eggs  
+and potatoes, carols on the radio, dry toast  
+with butter and jam. It was the antidote 
+to a frozen grocery store aisle where I stood 
+between the American-style chocolate chip cookies 
+and bags of Christmas candy, to walking  
+back to the room alone past all the bridges  
+over the Liffey—each early DART ride to school 
+together was a piece of it, as we ran between the 
+cars to the front of the train while snow fell over the bay, 
+slipped the turnstiles at Pearse Street Station, 
+ran until the flakes melted in the waves.
+</pre>
+<p class="date">November 2010</p>
 
 <h2 id="the-fighter-pilot">The fighter pilot</h2>
 <pre class="poem">
