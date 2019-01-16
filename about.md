@@ -15,7 +15,7 @@ You can follow me on Twitter at [@rebeccaholmes](https://twitter.com/rebeccaholm
 
 I have some projects on GitHub as [piscisvolans](https://github.com/piscisvolans).
 
-#### Here is <a href="{{ site.baseurl }}/public/pdf/rebecca-holmes-web-resume.pdf">my current CV/resume</a>.
+#### Here is <a href="{{ site.baseurl }}/public/pdf/cv_external_2019-01.pdf">my current CV</a>.
 
 <hr>
 
