@@ -7,13 +7,16 @@ more: "True"
 
 Exciting blog news! The Poetry Sisters have kindly welcomed me into their writing and critique group, and I'll be joining in on Poetry Friday this year. We take turns choosing monthly poetry challenges, and share our poems on the first Friday of the month. I'm really excited because I haven't been writing much since I finished school. (I need deadlines and peer pressure to accomplish anything.)
 
-This month's challenge, from Laura Purdie Salas, is to write a mask poem from the point of view of a non-human object or animal. I decided to write from the point of view of my house, which is a duplex built in the 50's as part of a government housing project to provide living quarters for employees and their families at Los Alamos National Laboratory. All the homes were eventually sold to private owners. The duplexes are old, but solidly built, with wood floors, big crank-open windows, and stainless steel countertops. It's fun to see how people have modified and renovated them, from adding solar panels to covering the whole thing in adobe. If you go to a friend's house you're likely to recognize your doorknobs (or hideous flowery bedroom light fixtures).
+This month's challenge, from Laura Purdie Salas, is to write a mask poem from the point of view of a non-human object or animal. I decided to write from the point of view of my house, which is a duplex built in the 50's as part of a government housing project to provide living quarters for employees and their families at Los Alamos National Laboratory. The duplexes are old, but solidly built, with wood floors, big crank-open windows, and stainless steel countertops. All the homes were eventually sold to private owners. It's fun to see how people have modified and renovated them, from adding solar panels to covering the whole thing in adobe. If you go to a friend's house you're likely to recognize your doorknobs (or hideous flowery bedroom light fixtures).
+
+<center><div class="thumbnail"><img src="{{ site.baseurl }}/public/img/IMG_1827.jpg" width="50%" class="thumbnail">
+<div class="caption">The serial number on my stainless counterstop. Also, the mint green paint I've grown to love.</div></div>
+</center>
 
 None of this is weird to me, because my Air Force family often lived in base housing when I was growing up. Whether in base housing or not, we were usually temporary visitors in a house that had been home to many other families. Sometimes I would pencil my name under the windowsill and try to find where other kids had done the same. (Sorry Mom.) So, I'm used to wondering about the people who lived in a house before me. As an adult, I think about the other women in particular, who must have had lives so different from mine.
 
 <h2>Duplex on Villa St, Los Alamos, New Mexico</h2>
 <pre class="poem">
-
 I am a duplex family housing unit 
 built in 1951.
 Once I was expanding
@@ -44,7 +47,6 @@ unburned
 mountains.
 </pre>
 <p class="date">March 2019</p>
-
 Please visit my poetry sisters and read their mask poems. I'm lucky to be joining this group of amazing poets.
 
 * [Laura](https://wp.me/p6Bicx-6Am)
