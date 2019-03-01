@@ -13,6 +13,8 @@ This month's challenge, from Laura Purdie Salas, is to write a [mask poem](http:
 <div class="caption">The serial number on my stainless countertop. And the mint green paint I've grown to love.</div></div>
 </center>
 
+<div id="more"></div>
+
 None of this is weird to me, because my Air Force family often lived in base housing when I was growing up. Whether in base housing or not, we were usually temporary visitors in a house that had been home to many other families. Sometimes I would pencil my name under the windowsill and try to find where other kids had done the same. (Sorry Mom.) So, I'm used to wondering about the people who lived in a house before me. As an adult, I think about the other women in particular, who must have had lives so different from mine.
 
 <br>
@@ -47,7 +49,7 @@ behind the green
 unburned 
 mountains.
 </pre>
-<p class="date">March 2019</p>
+
 Please visit my poetry sisters and read their mask poems. I'm lucky to be joining this group of amazing poets.
 
 * [Laura](https://wp.me/p6Bicx-6Am)
