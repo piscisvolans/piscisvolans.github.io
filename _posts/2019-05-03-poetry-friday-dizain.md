@@ -11,6 +11,8 @@ This month's challenge, from Sara Lewis Holmes (poet, author, and also my mama) 
 
 Extra credit was to be given for using the word "square", which made me think of boxes, which made me think of cats, which are one of my favorite topics. I was also packing for a trip to Pasadena, which is always made more exciting by the fact that if I leave my suitcase unattended for one single second, I'll come back to find a cat inside making sure his fur gets to go to California.
 
+So I wondered... what do they think they're going to find when they plunge into suitcases and shopping bags like Indiana Jones diving under a closing temple gate?
+
 <!--more-->
 
 <br>
@@ -31,8 +33,8 @@ We’re born with the cat’s question: what’s in there?
 Please visit my poetry sisters and read their Dizains!
 
 * [Liz](https://lizgartonscanlon.com/2019/05/poetry-project-may-2019/)
+
 <!--* [Sara](https://saralewisholmes.blogspot.com/2019/03/poetry-friday-mask-poems-or-how-to-hide.html)
 * [Tanita](http://tanitasdavis.com/wp/?p=9362)
 * [Tricia](http://missrumphiuseffect.blogspot.com/2019/03/mask-poems-with-my-poetry-sisters.html)
-
 Poetry Friday is hosted this month by [TeacherDance](https://www.teacherdance.org/).-->
