@@ -7,7 +7,7 @@ more: "True"
 
 And we're back for Poetry Friday!
 
-This month's challenge, from Sara Lewis Holmes (poet, author, and also my mama) is to write a [Dizain](https://www.writersdigest.com/whats-new/dizain-poetic-form), a French form with ten lines of ten syllables each and rhyme scheme ABABBCCDC.
+This month's challenge, from Sara Lewis Holmes (poet, author, and also my mama) is to write a [Dizain](https://www.writersdigest.com/whats-new/dizain-poetic-form), a French form with ten lines of ten syllables each and rhyme scheme ABABBCCDCD.
 
 Extra credit was to be given for using the word "square", which made me think of boxes, which made me think of cats, which are one of my favorite topics. I was also packing for a trip to Pasadena, which is always made more exciting by the fact that if I leave my suitcase unattended for one single second, I'll come back to find a cat inside making sure his fur gets to go to California.
 
