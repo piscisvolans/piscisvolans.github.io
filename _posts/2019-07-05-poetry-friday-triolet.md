@@ -18,11 +18,11 @@ I'm going backpacking for a night this weekend, so I have campfires on the brain
 <pre class="poem">
 How slow the hours of this light.
 How many lifetimes in that dark
-behind us.Their flames how bright,
+behind us. Their flames how bright,
 how slow. The hours of this light
 pass unrecognized, unmarked.
 How slow the hours of this light,
-how many. Lifetimes in the dark.
+how many. Lifetimes in that dark.
 </pre>
 <br><br>
 Please visit my poetry sisters and read their triolets!
