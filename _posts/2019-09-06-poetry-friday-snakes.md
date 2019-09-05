@@ -13,7 +13,7 @@ Our poetry challenge this month, from Laura Purdie Salas, was to write a poem co
 <h2>Snakes</h2>
 <pre class="poem">
 snakes in your socks
-snakes in dreams
+snakes in your dreams
 snakes under rocks
 snakes in schemes
 snakes in a jar
