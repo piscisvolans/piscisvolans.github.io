@@ -17,7 +17,7 @@ snakes in your dreams
 snakes under rocks
 snakes in schemes
 snakes in a jar
-snakes in a quarry
+snakes in the quarry
 snakes in the stars
 snakes in allegory
 </pre>
