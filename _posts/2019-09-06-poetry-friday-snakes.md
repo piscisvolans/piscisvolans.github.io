@@ -12,9 +12,9 @@ Our poetry challenge this month, from Laura Purdie Salas, was to write a poem co
 <br>
 <h2>Snakes</h2>
 <pre class="poem">
-snakes in stories
-snakes in jars
-snakes in quarries
+snakes in a story
+snakes in a jar
+snakes in a quarry
 snakes in the stars
 snakes under rocks
 snakes in schemes
