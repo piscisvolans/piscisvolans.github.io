@@ -5,23 +5,20 @@ comments: "True"
 more: "True"
 ---
 
-Our poetry challenge this month, from Laura Purdie Salas, was to write a poem comparing something with a snake, in 8 lines or less. Because Poetry Friday is hosted this month by [Poetry for Children](http://poetryforchildren.blogspot.com/) I was inspired to try writing something fun and silly (not my usual genre, but I loved it when I was a kid).
+Our poetry challenge this month, from Laura Purdie Salas, was to write a poem comparing something with a snake, in 8 lines or less. Because Poetry Friday is hosted this month by [Poetry for Children](http://poetryforchildren.blogspot.com/) I was inspired to try writing something fun and silly that I would have liked when I was a kid.
 
 <!--more-->
 
 <br>
 <h2>Snakes</h2>
 <pre class="poem">
-snakes in the stars
-snakes in jars
-
 snakes in stories
+snakes in jars
 snakes in quarries
-
+snakes in the stars
 snakes under rocks
-snakes in your socks
-
 snakes in schemes
+snakes in your socks
 snakes in dreams
 </pre>
 <br><br>
