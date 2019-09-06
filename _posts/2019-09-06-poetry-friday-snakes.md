@@ -7,6 +7,12 @@ more: "True"
 
 Our poetry challenge this month, from Laura Purdie Salas, was to write a poem comparing something with a snake in 8 lines or less. Because Poetry Friday is hosted this month by [Poetry for Children](http://poetryforchildren.blogspot.com/), I was inspired to try writing something fun that I would have liked when I was a kid (not my usual genre).
 
+Also, here's a snake. 
+
+<center><div class="thumbnail"><img src="{{ site.baseurl }}/public/img/IMG_8606.jpg" width="65%" class="thumbnail img-responsive">
+<div class="caption">This bull snake was an evacuee from a forest fire in the mountains. My neighbor released it in our yard last year to eat gophers (no obvious effect on the gopher population was ever observed).</div></div>
+</center>
+
 <!--more-->
 
 <br>
