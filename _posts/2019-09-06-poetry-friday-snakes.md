@@ -24,10 +24,12 @@ snakes in allegory
 <br><br>
 Please visit my poetry sisters and read their ssssssnake poemssssss!
 
-<!--* [Liz](https://lizgartonscanlon.com/2019/05/poetry-project-may-2019/)-->
+* [Liz](https://lizgartonscanlon.com/2019/09/poetry-project-september-2019/)
 * [Sara](https://saralewisholmes.blogspot.com/2019/09/poetry-friday-snakes-in-eight-lines-or.html)
-<!--* [Tanita](http://tanitasdavis.com/wp/?p=9654)-->
-<!--* [Tricia](https://missrumphiuseffect.blogspot.com/2019/07/poetry-friday-and-triolets.html)-->
+* [Tanita](http://tanitasdavis.com/wp/?p=9720)
+* [Tricia](https://missrumphiuseffect.blogspot.com/2019/09/poetry-sisters-get-herpetological.html)
 * [Laura](https://laurasalas.com/poems-for-teachers/snake-on-a-cake-poetry-princesses-poetry-friday/)
+* [Andi](https://awrungsponge.blogspot.com/2019/09/snake-poem.html)
+
 
 Poetry Friday is hosted this month by [Poetry for Children](http://poetryforchildren.blogspot.com/).
