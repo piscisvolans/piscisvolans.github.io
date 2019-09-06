@@ -9,7 +9,7 @@ Our poetry challenge this month, from Laura Purdie Salas, was to write a poem co
 
 Also, here's a snake. 
 
-<center><div class="thumbnail"><img src="{{ site.baseurl }}/public/img/IMG_8606.jpg" width="65%" class="thumbnail img-responsive">
+<center><div class="thumbnail"><img src="{{ site.baseurl }}/public/img/IMG_8606.JPG" width="65%" class="thumbnail img-responsive">
 <div class="caption">This bull snake was an evacuee from a forest fire in the mountains. My neighbor released it in our yard last year to eat gophers (no obvious effect on the gopher population was ever observed).</div></div>
 </center>
 
