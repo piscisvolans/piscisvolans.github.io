@@ -3,23 +3,25 @@ layout: page
 title: "About"
 ---
 
-I'm a physicist in Los Alamos, New Mexico, where I work as a staff scientist at Los Alamos National Laboratory.
+I'm a physicist living in beautiful Los Alamos, New Mexico.
 
-I went to [graduate school](http://research.physics.illinois.edu/QI/Photonics/) at the University of Illinois, and college at the University of North Carolina.
+Work: Staff scientist at Los Alamos National Laboratory.
 
-In the rest of my life, I like Americana music, cooking, poetry, science fiction, and planning for the apocalypse.
+School: PhD, [physics](http://research.physics.illinois.edu/QI/Photonics/) - University of Illinois; BS physics/creative writing - University of North Carolina.
+
+In the rest of my life, I like Americana music, poetry, science fiction, exploring New Mexico, and singing with the choir at [Trinity on the Hill Episcopal Church](http://latoth.org/).
 
 I grew up in an Air Force family and lived in Japan, New Mexico, Alabama, Germany, Virginia, Rhode Island, Washington DC, Mississippi, and North Carolina before graduating from high school.
 
-You can follow me on Twitter at [@rebeccaholmes](https://twitter.com/rebeccaholmes).
+Twitter: [@rebeccaholmes](https://twitter.com/rebeccaholmes)
 
-I have some projects on GitHub as [piscisvolans](https://github.com/piscisvolans).
+GitHub: [piscisvolans](https://github.com/piscisvolans)
 
-#### Here is <a href="{{ site.baseurl }}/public/pdf/cv_external.pdf">my current CV</a>.
+Current CV: <a href="{{ site.baseurl }}/public/pdf/cv_external.pdf">PDF</a>
 
 <hr>
 
-As a grad student I helped answer science questions on the Physics Illinois [Ask the Van](http://van.physics.illinois.edu/qa/) Q&A website.
+In grad school I helped answer science questions on the Physics Illinois [Ask the Van](http://van.physics.illinois.edu/qa/) Q&A website.
 
 ### Most recent Ask the Van answer:
 
