@@ -3,13 +3,13 @@ layout: page
 title: "About"
 ---
 
-I'm a physicist living in beautiful Los Alamos, New Mexico.
+I'm a physicist in beautiful Los Alamos, New Mexico.
 
-Work: Staff scientist at Los Alamos National Laboratory.
+Work: Scientist at Los Alamos National Laboratory
 
-School: PhD, [physics](http://research.physics.illinois.edu/QI/Photonics/) - University of Illinois; BS physics/creative writing - University of North Carolina.
+School: PhD, [physics](http://research.physics.illinois.edu/QI/Photonics/) - University of Illinois; BS physics/creative writing - University of North Carolina
 
-In the rest of my life, I like Americana music, poetry, science fiction, exploring New Mexico, and singing with the choir at [Trinity on the Hill Episcopal Church](http://latoth.org/).
+In the rest of my life, I enjoy Americana music, poetry, science fiction, exploring New Mexico, and singing with the choir at [Trinity on the Hill Episcopal Church](http://latoth.org/).
 
 I grew up in an Air Force family and lived in Japan, New Mexico, Alabama, Germany, Virginia, Rhode Island, Washington DC, Mississippi, and North Carolina before graduating from high school.
 
@@ -17,7 +17,7 @@ Twitter: [@rebeccaholmes](https://twitter.com/rebeccaholmes)
 
 GitHub: [piscisvolans](https://github.com/piscisvolans)
 
-Current CV: <a href="{{ site.baseurl }}/public/pdf/cv_external.pdf">PDF</a>
+Current CV: <a href="{{ site.baseurl }}/public/pdf/cv_external_2019-10.pdf">PDF</a>
 
 <hr>
 
