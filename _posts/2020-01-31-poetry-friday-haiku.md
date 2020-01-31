@@ -7,8 +7,6 @@ more: "False"
 
 New year, new Poetry Friday procrastination! I'm late, but I'm here. This month we're writing haiku on the theme of foresight, or the new year.
 
-I had to travel for work so I was out of the office for about a week. I came back today to find that the soil around my amaryllis bulb is newly damp and it's growing happily. Thanks, anonymous plant-loving coworker! The lesson of today's poem is that sometimes you make zero effort and everything is still okay.
-
 <br>
 <h2>Haiku</h2>
 <pre class="poem">
@@ -17,6 +15,8 @@ bulb grew a new shoot this week.
 Someone watered it.
 </pre>
 <br><br>
+
+I had to travel for work so I was out of the office for about a week. I came back today to find that the soil around my amaryllis bulb is newly damp and it's growing happily. Thanks, anonymous plant-loving coworker! The lesson of today's poem is that sometimes you make zero effort and everything is still okay.
 
 Please visit my poetry sisters and read their January haiku!
 
