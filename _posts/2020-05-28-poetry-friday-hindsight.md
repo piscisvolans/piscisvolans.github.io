@@ -16,7 +16,6 @@ This one is about a feeling I had during a quantum mechanics lecture almost ten 
 <br>
 <h2>In the quantum mechanics lecture</h2>
 <pre class="poem">
-
 On the day I knew I had to become a scientist,
 wind came in from the afternoon with voices
 
