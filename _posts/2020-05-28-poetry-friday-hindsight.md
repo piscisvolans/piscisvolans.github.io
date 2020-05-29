@@ -40,10 +40,8 @@ the adventure in following the steps&mdash;to the end.
 
 Please visit my poetry sisters and read their poems!
 
-* [Liz]()
-* [Sara]()
-* [Tanita]()
-* [Tricia]()
+* [Liz](https://lizgartonscanlon.com/2020/05/poetry-project-may-2020/)
+* [Sara](https://saralewisholmes.blogspot.com/2020/05/poetry-friday-if-digitopolis-had-chapel.html)
+* [Tanita](http://tanitasdavis.com/wp/?p=10410)
+* [Tricia](https://missrumphiuseffect.blogspot.com/2020/05/poetry-sisters-look-back-again.html)
 * [Laura](https://wp.me/p6Bicx-7w4)
-* [Andi]()
-
