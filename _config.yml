@@ -7,18 +7,18 @@ gems:             [jekyll-paginate]
 permalink:        pretty
 
 # Setup
-title:            Rebecca Holmes
-name:			  Rebecca Holmes's Blog
-tagline:          "Rebecca Holmes"
+title:            Rebecca Holmes Sandoval
+name:			  Rebecca Holmes Sandoval's Blog
+tagline:          "Rebecca Holmes Sandoval"
 url:              http://rebeccaholmes.net
 description:	  Science, writing, and other stuff.
 paginate:         5
 baseurl:          ""
 excerpt_separator: <!--more-->
 author:
-  name:           Rebecca Holmes
+  name:           Rebecca Holmes Sandoval
   url:            https://twitter.com/rebeccaholmes
-  email:          rebecca.morgan.holmes@gmail.com
+  email:          rebecca.h.sandoval@gmail.com
 
 # Custom vars
 github:
