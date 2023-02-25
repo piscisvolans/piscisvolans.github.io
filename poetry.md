@@ -24,7 +24,7 @@ Poems on all the major topics: cats, dreams, and the end of the world.
 No roadside attraction invites me 
 to See the World's Deepest Hole 
 
-but I stop here in dreams, on imagined, 
+but I stop here in dreams, on imagined 
 world's-end roadtrips. I turn off my car, 
 
 zip up my parka, crunch snow and glass 
