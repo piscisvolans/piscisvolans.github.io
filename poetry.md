@@ -6,7 +6,6 @@ title: "Poetry"
 Poems on all the major topics: cats, dreams, and the end of the world.
 
 * [Kola Superdeep Borehole](#kola-superdeep-borehole)
-* [South](#south)
 * [Cat](#cat)
 * [On the way to Mars](#on-the-way-to-mars)
 * [Exchange student](#exchange-student)
@@ -57,47 +56,7 @@ where people look, where their shovels dig.
 I don't linger. I hear again the call of far places  
 where I will step unrecognized through undivided rooms.
 </pre>
-<p class="date">August 2013</p>
-
-<h2 id="south">South</h2>
-<pre class="poem">
-At fourteen in Mississippi 
-you didn't make it easy, didn't hide  
-your bad schools and your Jesus billboards, 
- 
-your cockroaches and closed minds, 
-or the war flags, revised history, and the way  
-no one even seemed ashamed of it all. 
- 
-You weren't anything like my happy childhood  
-memories, black-eyed peas and barbecue, 
-Lucinda singing about car wheels on a gravel road  
- 
-on the stereo, our road trip anthem  
-on the way to grandparents  
-and dairy cows in Tennessee: 
- 
-that origin we swung around when the Air Force gave orders  
-to Germany or Japan, Knoxville  
-with the farm cats and fireflies. 
- 
-Now some nights in Illinois 
-I make biscuits, and research by screen-glow: 
-family trees and genes, 
- 
-could tell you my haplogroup, 
-trace the inheritance 
-of my eyeglasses and curls. 
- 
-You never asked if I needed a home. 
-You never told me what you contain. 
-You never welcomed me, 
- 
-only marked me and let me go, 
-sure that I'd sneak back—oh, to rock again 
-in that complicated cradle.
-</pre>
-<p class="date">October 2013</p>
+<p class="date">August 2013</p> 
 
 <h2 id="cat">Cat</h2>
 <pre class="poem">
